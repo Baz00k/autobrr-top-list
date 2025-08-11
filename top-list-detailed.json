@@ -1,79 +1,9 @@
 {
-  "last_updated": "2025-08-11T00:48:11.654292",
+  "last_updated": "2025-08-11T06:50:48.818609",
   "total_items": 50,
   "items": [
     {
-      "title": "Happy Gilmore 2",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "The Hunting Wives",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "The Naked Gun",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "Dexter: Resurrection",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "The Fantastic Four: First Steps",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "Untamed",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "My Oxford Year",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "Chief of War",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "Superman",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "Leanne",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "28 Years Later",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "The Sandman",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "Together",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "Twisted Metal",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "Final Destination: Bloodlines",
+      "title": "Weapons",
       "year": "",
       "type": "movie"
     },
@@ -83,17 +13,57 @@
       "type": "series"
     },
     {
-      "title": "Sinners",
+      "title": "Happy Gilmore 2",
       "year": "",
       "type": "movie"
     },
     {
-      "title": "The Assassin",
+      "title": "Dexter: Resurrection",
       "year": "",
       "type": "series"
     },
     {
-      "title": "Weapons",
+      "title": "The Naked Gun",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "The Hunting Wives",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "Jurassic World: Rebirth",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "Untamed",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "The Fantastic Four: First Steps",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "Chief of War",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "Freakier Friday",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "Leanne",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "Superman",
       "year": "",
       "type": "movie"
     },
@@ -103,7 +73,67 @@
       "type": "series"
     },
     {
+      "title": "Together",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "Alien: Earth",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "My Oxford Year",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "Outlander: Blood of My Blood",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "28 Years Later",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "The Gilded Age",
+      "year": "",
+      "type": "series"
+    },
+    {
       "title": "KPop Demon Hunters",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "The Sandman",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "Sinners",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "Twisted Metal",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "Freaky Tales",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "Smoke",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "Bring Her Back",
       "year": "",
       "type": "movie"
     },
@@ -118,12 +148,12 @@
       "type": "movie"
     },
     {
-      "title": "The Gilded Age",
+      "title": "Foundation",
       "year": "",
       "type": "series"
     },
     {
-      "title": "Saiyaara",
+      "title": "Final Destination: Bloodlines",
       "year": "",
       "type": "movie"
     },
@@ -133,27 +163,7 @@
       "type": "series"
     },
     {
-      "title": "Jurassic World: Rebirth",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "Ballard",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "The Life of Chuck",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "Smoke",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "The Amateur",
+      "title": "Eden",
       "year": "",
       "type": "movie"
     },
@@ -163,17 +173,7 @@
       "type": "series"
     },
     {
-      "title": "Bring Her Back",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "Foundation",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "Materialists",
+      "title": "Barbarian",
       "year": "",
       "type": "movie"
     },
@@ -183,37 +183,7 @@
       "type": "series"
     },
     {
-      "title": "The Bad Guys 2",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "Takopi's Original Sin",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "How to Train Your Dragon",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "Eyes of Wakanda",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "Thunderbolts*",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "The White Lotus",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "Son of Sardaar 2",
+      "title": "Materialists",
       "year": "",
       "type": "movie"
     },
@@ -223,7 +193,37 @@
       "type": "series"
     },
     {
-      "title": "Dhadak 2",
+      "title": "The Life of Chuck",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "Ballard",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "The Amateur",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "The White Lotus",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "The Assassin",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "Saiyaara",
       "year": "",
       "type": "movie"
     },
@@ -233,7 +233,7 @@
       "type": "series"
     },
     {
-      "title": "Mahavatar Narsimha",
+      "title": "The Monkey",
       "year": "",
       "type": "movie"
     },
@@ -243,12 +243,12 @@
       "type": "series"
     },
     {
-      "title": "Heads of State",
+      "title": "Good Boy",
       "year": "",
       "type": "movie"
     },
     {
-      "title": "Mandala Murders",
+      "title": "Takopi's Original Sin",
       "year": "",
       "type": "series"
     }
