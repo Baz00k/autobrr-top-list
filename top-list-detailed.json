@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-09T10:34:59.187138",
+  "last_updated": "2025-08-11T00:48:11.654292",
   "total_items": 50,
   "items": [
     {
@@ -53,7 +53,7 @@
       "type": "series"
     },
     {
-      "title": "War of the Worlds",
+      "title": "28 Years Later",
       "year": "",
       "type": "movie"
     },
@@ -63,17 +63,7 @@
       "type": "series"
     },
     {
-      "title": "28 Years Later",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "Game of Thrones",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "Happy Gilmore",
+      "title": "Together",
       "year": "",
       "type": "movie"
     },
@@ -83,7 +73,7 @@
       "type": "series"
     },
     {
-      "title": "Together",
+      "title": "Final Destination: Bloodlines",
       "year": "",
       "type": "movie"
     },
@@ -93,22 +83,12 @@
       "type": "series"
     },
     {
-      "title": "Final Destination: Bloodlines",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "The Assassin",
-      "year": "",
-      "type": "series"
-    },
-    {
       "title": "Sinners",
       "year": "",
       "type": "movie"
     },
     {
-      "title": "Dexter",
+      "title": "The Assassin",
       "year": "",
       "type": "series"
     },
@@ -123,7 +103,7 @@
       "type": "series"
     },
     {
-      "title": "The Conjuring: Last Rites",
+      "title": "KPop Demon Hunters",
       "year": "",
       "type": "movie"
     },
@@ -133,7 +113,7 @@
       "type": "series"
     },
     {
-      "title": "KPop Demon Hunters",
+      "title": "F1: The Movie",
       "year": "",
       "type": "movie"
     },
@@ -143,22 +123,12 @@
       "type": "series"
     },
     {
-      "title": "F1: The Movie",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "The Bear",
-      "year": "",
-      "type": "series"
-    },
-    {
       "title": "Saiyaara",
       "year": "",
       "type": "movie"
     },
     {
-      "title": "And Just Like That...",
+      "title": "The Bear",
       "year": "",
       "type": "series"
     },
@@ -198,7 +168,7 @@
       "type": "movie"
     },
     {
-      "title": "Stranger Things",
+      "title": "Foundation",
       "year": "",
       "type": "series"
     },
@@ -208,27 +178,7 @@
       "type": "movie"
     },
     {
-      "title": "Breaking Bad",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "Foundation",
-      "year": "",
-      "type": "series"
-    },
-    {
-      "title": "The Naked Gun: From the Files of Police Squad!",
-      "year": "",
-      "type": "movie"
-    },
-    {
-      "title": "South Park",
+      "title": "MobLand",
       "year": "",
       "type": "series"
     },
@@ -238,7 +188,7 @@
       "type": "movie"
     },
     {
-      "title": "MobLand",
+      "title": "Takopi's Original Sin",
       "year": "",
       "type": "series"
     },
@@ -248,7 +198,57 @@
       "type": "movie"
     },
     {
-      "title": "Takopi's Original Sin",
+      "title": "Eyes of Wakanda",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "Thunderbolts*",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "The White Lotus",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "Son of Sardaar 2",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "Resident Alien",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "Dhadak 2",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "Countdown",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "Mahavatar Narsimha",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "Severance",
+      "year": "",
+      "type": "series"
+    },
+    {
+      "title": "Heads of State",
+      "year": "",
+      "type": "movie"
+    },
+    {
+      "title": "Mandala Murders",
       "year": "",
       "type": "series"
     }
