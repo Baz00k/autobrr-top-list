@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-14T06:47:21.524885",
+  "last_updated": "2025-08-15T06:46:44.898324",
   "total_items": 100,
   "items": [
     {
@@ -100,7 +100,7 @@
     {
       "title": "Alien: Earth",
       "type": "series",
-      "average_rating": 8.2
+      "average_rating": 8.0
     },
     {
       "title": "My Oxford Year",
@@ -265,7 +265,7 @@
     {
       "title": "Saiyaara",
       "type": "movie",
-      "average_rating": 6.6
+      "average_rating": 6.5
     },
     {
       "title": "The Rookie",
@@ -355,7 +355,7 @@
     {
       "title": "Eddington",
       "type": "movie",
-      "average_rating": 7.0
+      "average_rating": 6.9
     },
     {
       "title": "Yellowstone",
@@ -365,12 +365,12 @@
     {
       "title": "Ballerina",
       "type": "movie",
-      "average_rating": 7.0
+      "average_rating": 6.9
     },
     {
       "title": "Pecados Inconfesables",
       "type": "series",
-      "average_rating": 4.9
+      "average_rating": 5.0
     },
     {
       "title": "Death of a Unicorn",
@@ -495,7 +495,7 @@
     {
       "title": "Shaman",
       "type": "movie",
-      "average_rating": 4.2
+      "average_rating": 4.3
     },
     {
       "title": "Rick and Morty",
