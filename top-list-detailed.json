@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-16T06:43:30.992868",
+  "last_updated": "2025-08-17T06:44:15.238182",
   "total_items": 100,
   "items": [
     {
@@ -75,7 +75,7 @@
     {
       "title": "Superman",
       "type": "movie",
-      "average_rating": 7.5
+      "average_rating": 7.4
     },
     {
       "title": "The Summer I Turned Pretty",
@@ -100,7 +100,7 @@
     {
       "title": "Alien: Earth",
       "type": "series",
-      "average_rating": 7.9
+      "average_rating": 7.8
     },
     {
       "title": "My Oxford Year",
@@ -110,7 +110,7 @@
     {
       "title": "Outlander: Blood of My Blood",
       "type": "series",
-      "average_rating": 8.4
+      "average_rating": 8.3
     },
     {
       "title": "28 Years Later",
