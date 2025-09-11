@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10T06:42:13.181659",
+  "last_updated": "2025-09-11T06:42:26.099034",
   "total_items": 100,
   "items": [
     {
@@ -40,7 +40,7 @@
     {
       "title": "The Paper",
       "type": "series",
-      "average_rating": 7.0
+      "average_rating": 7.1
     },
     {
       "title": "Wuthering Heights",
@@ -65,7 +65,7 @@
     {
       "title": "The Naked Gun",
       "type": "movie",
-      "average_rating": 6.7
+      "average_rating": 6.6
     },
     {
       "title": "The Summer I Turned Pretty",
@@ -150,7 +150,7 @@
     {
       "title": "Task",
       "type": "series",
-      "average_rating": 7.7
+      "average_rating": 7.6
     },
     {
       "title": "Die My Love",
@@ -285,7 +285,7 @@
     {
       "title": "A House of Dynamite",
       "type": "movie",
-      "average_rating": 7.0
+      "average_rating": 6.9
     },
     {
       "title": "Slow Horses",
@@ -315,7 +315,7 @@
     {
       "title": "Bugonia",
       "type": "movie",
-      "average_rating": 7.1
+      "average_rating": 7.0
     },
     {
       "title": "Invasion",
@@ -415,7 +415,7 @@
     {
       "title": "Inspector Zende",
       "type": "movie",
-      "average_rating": 5.9
+      "average_rating": 5.8
     },
     {
       "title": "Shingeki no Kyojin",
@@ -485,7 +485,7 @@
     {
       "title": "Father Mother Sister Brother",
       "type": "movie",
-      "average_rating": 6.7
+      "average_rating": 6.8
     },
     {
       "title": "Fallout",
