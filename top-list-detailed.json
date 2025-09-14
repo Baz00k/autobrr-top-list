@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13T06:36:04.679910",
+  "last_updated": "2025-09-14T06:37:16.906639",
   "total_items": 100,
   "items": [
     {
@@ -160,7 +160,7 @@
     {
       "title": "Countdown",
       "type": "series",
-      "average_rating": 6.9
+      "average_rating": 6.8
     },
     {
       "title": "The Conjuring",
@@ -220,7 +220,7 @@
     {
       "title": "Chief of War",
       "type": "series",
-      "average_rating": 7.5
+      "average_rating": 7.6
     },
     {
       "title": "28 Years Later",
@@ -415,7 +415,7 @@
     {
       "title": "Inspector Zende",
       "type": "movie",
-      "average_rating": 5.8
+      "average_rating": 5.7
     },
     {
       "title": "Shingeki no Kyojin",
@@ -500,7 +500,7 @@
     {
       "title": "King &amp; Conqueror",
       "type": "series",
-      "average_rating": 5.2
+      "average_rating": 5.3
     }
   ]
 }
