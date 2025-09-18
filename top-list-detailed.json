@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17T06:42:40.257291",
+  "last_updated": "2025-09-18T06:42:25.959129",
   "total_items": 100,
   "items": [
     {
@@ -25,7 +25,7 @@
     {
       "title": "The Conjuring: Last Rites",
       "type": "movie",
-      "average_rating": 6.5
+      "average_rating": 6.4
     },
     {
       "title": "Alien: Earth",
@@ -50,12 +50,12 @@
     {
       "title": "Dexter: Resurrection",
       "type": "series",
-      "average_rating": 9.2
+      "average_rating": 9.1
     },
     {
       "title": "The Wrong Paris",
       "type": "movie",
-      "average_rating": 6.2
+      "average_rating": 6.1
     },
     {
       "title": "Only Murders in the Building",
@@ -230,7 +230,7 @@
     {
       "title": "Las muertas",
       "type": "series",
-      "average_rating": 6.7
+      "average_rating": 6.8
     },
     {
       "title": "Warfare",
@@ -275,7 +275,7 @@
     {
       "title": "Dracula: A Love Tale",
       "type": "movie",
-      "average_rating": 6.2
+      "average_rating": 6.1
     },
     {
       "title": "Yellowstone",
@@ -415,7 +415,7 @@
     {
       "title": "Lokah Chapter 1: Chandra",
       "type": "movie",
-      "average_rating": 8.2
+      "average_rating": 8.1
     },
     {
       "title": "Invasion",
@@ -473,7 +473,7 @@
       "average_rating": 7.2
     },
     {
-      "title": "The Fable",
+      "title": "Jugnuma: The Fable",
       "type": "movie",
       "average_rating": 8.4
     },
