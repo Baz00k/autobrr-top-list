@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-09-30T06:44:13.883863",
+  "last_updated": "2025-10-01T06:43:26.108028",
   "total_items": 100,
   "items": [
     {
-      "title": "Weapons",
+      "title": "One Battle After Another",
       "type": "movie",
-      "average_rating": 7.6
+      "average_rating": 8.4
     },
     {
       "title": "Wayward",
@@ -13,9 +13,9 @@
       "average_rating": 5.9
     },
     {
-      "title": "The Long Walk",
+      "title": "Superman",
       "type": "movie",
-      "average_rating": 7.4
+      "average_rating": 7.2
     },
     {
       "title": "House of Guinness",
@@ -23,9 +23,9 @@
       "average_rating": 7.4
     },
     {
-      "title": "The Conjuring: Last Rites",
+      "title": "Weapons",
       "type": "movie",
-      "average_rating": 6.4
+      "average_rating": 7.6
     },
     {
       "title": "Black Rabbit",
@@ -33,9 +33,9 @@
       "average_rating": 7.3
     },
     {
-      "title": "Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen",
+      "title": "The Fantastic Four: First Steps",
       "type": "movie",
-      "average_rating": 8.6
+      "average_rating": 7.1
     },
     {
       "title": "Alien: Earth",
@@ -43,9 +43,9 @@
       "average_rating": 7.3
     },
     {
-      "title": "The Thursday Murder Club",
+      "title": "The Long Walk",
       "type": "movie",
-      "average_rating": 6.5
+      "average_rating": 7.3
     },
     {
       "title": "Imawa no Kuni no Arisu",
@@ -53,9 +53,9 @@
       "average_rating": 7.8
     },
     {
-      "title": "The Wrong Paris",
+      "title": "Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen",
       "type": "movie",
-      "average_rating": 6.1
+      "average_rating": 8.6
     },
     {
       "title": "Task",
@@ -63,9 +63,9 @@
       "average_rating": 7.7
     },
     {
-      "title": "Christy",
+      "title": "28 Years Later",
       "type": "movie",
-      "average_rating": 5.4
+      "average_rating": 6.7
     },
     {
       "title": "Peacemaker",
@@ -73,9 +73,9 @@
       "average_rating": 8.3
     },
     {
-      "title": "Highest 2 Lowest",
+      "title": "The Smashing Machine",
       "type": "movie",
-      "average_rating": 5.6
+      "average_rating": 7.2
     },
     {
       "title": "Wednesday",
@@ -83,9 +83,9 @@
       "average_rating": 8.0
     },
     {
-      "title": "The Naked Gun",
+      "title": "The Conjuring: Last Rites",
       "type": "movie",
-      "average_rating": 6.6
+      "average_rating": 6.4
     },
     {
       "title": "Marvel Zombies",
@@ -93,9 +93,9 @@
       "average_rating": 7.2
     },
     {
-      "title": "One Battle After Another",
+      "title": "All of You",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 6.3
     },
     {
       "title": "El refugio atómico",
@@ -103,9 +103,9 @@
       "average_rating": 5.5
     },
     {
-      "title": "Downton Abbey: The Grand Finale",
+      "title": "Him",
       "type": "movie",
-      "average_rating": 7.7
+      "average_rating": 5.4
     },
     {
       "title": "Slow Horses",
@@ -113,9 +113,9 @@
       "average_rating": 8.3
     },
     {
-      "title": "Superman",
+      "title": "Samagwi",
       "type": "movie",
-      "average_rating": 7.2
+      "average_rating": 5.3
     },
     {
       "title": "Gen V",
@@ -123,9 +123,9 @@
       "average_rating": 7.6
     },
     {
-      "title": "KPop Demon Hunters",
+      "title": "The Thursday Murder Club",
       "type": "movie",
-      "average_rating": 7.6
+      "average_rating": 6.5
     },
     {
       "title": "The Ba***ds of Bollywood",
@@ -133,9 +133,9 @@
       "average_rating": 7.7
     },
     {
-      "title": "Saiyaara",
+      "title": "Primitive War",
       "type": "movie",
-      "average_rating": 6.4
+      "average_rating": 5.6
     },
     {
       "title": "The Terminal List: Dark Wolf",
@@ -143,9 +143,9 @@
       "average_rating": 7.7
     },
     {
-      "title": "F1",
+      "title": "A Big Bold Beautiful Journey",
       "type": "movie",
-      "average_rating": 7.8
+      "average_rating": 6.2
     },
     {
       "title": "Only Murders in the Building",
@@ -153,9 +153,9 @@
       "average_rating": 8.1
     },
     {
-      "title": "Honey Don&apos;t!",
+      "title": "KPop Demon Hunters",
       "type": "movie",
-      "average_rating": 5.3
+      "average_rating": 7.6
     },
     {
       "title": "The Lowdown",
@@ -163,12 +163,192 @@
       "average_rating": 6.9
     },
     {
-      "title": "Nobody 2",
+      "title": "Snake Eyes",
+      "type": "movie",
+      "average_rating": 6.1
+    },
+    {
+      "title": "High Potential",
+      "type": "series",
+      "average_rating": 7.6
+    },
+    {
+      "title": "The Man in My Basement",
+      "type": "movie",
+      "average_rating": 4.6
+    },
+    {
+      "title": "Breaking Bad",
+      "type": "series",
+      "average_rating": 9.5
+    },
+    {
+      "title": "F1",
+      "type": "movie",
+      "average_rating": 7.7
+    },
+    {
+      "title": "The Girlfriend",
+      "type": "series",
+      "average_rating": 7.2
+    },
+    {
+      "title": "The Wrong Paris",
+      "type": "movie",
+      "average_rating": 6.1
+    },
+    {
+      "title": "Tulsa King",
+      "type": "series",
+      "average_rating": 7.9
+    },
+    {
+      "title": "Wicked: For Good",
+      "type": "movie",
+      "average_rating": null
+    },
+    {
+      "title": "Game of Thrones",
+      "type": "series",
+      "average_rating": 9.2
+    },
+    {
+      "title": "Sinners",
+      "type": "movie",
+      "average_rating": 7.6
+    },
+    {
+      "title": "The Summer I Turned Pretty",
+      "type": "series",
+      "average_rating": 7.3
+    },
+    {
+      "title": "Ruth &amp; Boaz",
+      "type": "movie",
+      "average_rating": 5.8
+    },
+    {
+      "title": "Dexter",
+      "type": "series",
+      "average_rating": 8.6
+    },
+    {
+      "title": "The Bride!",
+      "type": "movie",
+      "average_rating": null
+    },
+    {
+      "title": "Dexter: Resurrection",
+      "type": "series",
+      "average_rating": 9.1
+    },
+    {
+      "title": "Afterburn",
+      "type": "movie",
+      "average_rating": 4.5
+    },
+    {
+      "title": "The Pitt",
+      "type": "series",
+      "average_rating": 8.9
+    },
+    {
+      "title": "Code 3",
+      "type": "movie",
+      "average_rating": 7.2
+    },
+    {
+      "title": "Stranger Things",
+      "type": "series",
+      "average_rating": 8.6
+    },
+    {
+      "title": "Dracula: A Love Tale",
+      "type": "movie",
+      "average_rating": 6.1
+    },
+    {
+      "title": "Haunted Hotel",
+      "type": "series",
+      "average_rating": 7.7
+    },
+    {
+      "title": "Ballerina",
+      "type": "movie",
+      "average_rating": 6.9
+    },
+    {
+      "title": "The Morning Show",
+      "type": "series",
+      "average_rating": 8.1
+    },
+    {
+      "title": "Relay",
+      "type": "movie",
+      "average_rating": 7.0
+    },
+    {
+      "title": "Hotel Costiera",
+      "type": "series",
+      "average_rating": 6.6
+    },
+    {
+      "title": "The Strangers: Chapter 2",
+      "type": "movie",
+      "average_rating": 4.9
+    },
+    {
+      "title": "Adolescence",
+      "type": "series",
+      "average_rating": 8.1
+    },
+    {
+      "title": "The Naked Gun",
+      "type": "movie",
+      "average_rating": 6.5
+    },
+    {
+      "title": "Doc",
+      "type": "series",
+      "average_rating": 7.3
+    },
+    {
+      "title": "Swiped",
       "type": "movie",
       "average_rating": 6.4
     },
     {
-      "title": "High Potential",
+      "title": "Law &amp; Order: Special Victims Unit",
+      "type": "series",
+      "average_rating": 8.1
+    },
+    {
+      "title": "Avatar: Fire and Ash",
+      "type": "movie",
+      "average_rating": null
+    },
+    {
+      "title": "Monster",
+      "type": "series",
+      "average_rating": 7.8
+    },
+    {
+      "title": "French Lover",
+      "type": "movie",
+      "average_rating": 6.0
+    },
+    {
+      "title": "The Rookie",
+      "type": "series",
+      "average_rating": 8.0
+    },
+    {
+      "title": "Karate Kid: Legends",
+      "type": "movie",
+      "average_rating": 6.3
+    },
+    {
+      "title": "Chief of War",
       "type": "series",
       "average_rating": 7.6
     },
@@ -178,194 +358,14 @@
       "average_rating": 7.2
     },
     {
-      "title": "Breaking Bad",
-      "type": "series",
-      "average_rating": 9.5
-    },
-    {
-      "title": "Lilo &amp; Stitch",
-      "type": "movie",
-      "average_rating": 6.7
-    },
-    {
-      "title": "The Girlfriend",
-      "type": "series",
-      "average_rating": 7.2
-    },
-    {
-      "title": "The Smashing Machine",
-      "type": "movie",
-      "average_rating": 8.8
-    },
-    {
-      "title": "Tulsa King",
-      "type": "series",
-      "average_rating": 7.9
-    },
-    {
-      "title": "Caught Stealing",
-      "type": "movie",
-      "average_rating": 7.3
-    },
-    {
-      "title": "Game of Thrones",
-      "type": "series",
-      "average_rating": 9.2
-    },
-    {
-      "title": "Unknown Number: The High School Catfish",
-      "type": "movie",
-      "average_rating": 6.7
-    },
-    {
-      "title": "The Summer I Turned Pretty",
-      "type": "series",
-      "average_rating": 7.3
-    },
-    {
-      "title": "The Roses",
-      "type": "movie",
-      "average_rating": 7.0
-    },
-    {
-      "title": "Dexter",
-      "type": "series",
-      "average_rating": 8.6
-    },
-    {
-      "title": "Warfare",
-      "type": "movie",
-      "average_rating": 7.2
-    },
-    {
-      "title": "Dexter: Resurrection",
-      "type": "series",
-      "average_rating": 9.1
-    },
-    {
-      "title": "Sinners",
-      "type": "movie",
-      "average_rating": 7.6
-    },
-    {
-      "title": "The Pitt",
-      "type": "series",
-      "average_rating": 8.9
-    },
-    {
-      "title": "The Rip",
-      "type": "movie",
-      "average_rating": null
-    },
-    {
-      "title": "Stranger Things",
-      "type": "series",
-      "average_rating": 8.6
-    },
-    {
-      "title": "Him",
-      "type": "movie",
-      "average_rating": 5.5
-    },
-    {
-      "title": "Haunted Hotel",
-      "type": "series",
-      "average_rating": 7.7
-    },
-    {
-      "title": "Dracula: A Love Tale",
-      "type": "movie",
-      "average_rating": 6.1
-    },
-    {
-      "title": "The Morning Show",
-      "type": "series",
-      "average_rating": 8.1
-    },
-    {
-      "title": "Wake Up Dead Man",
-      "type": "movie",
-      "average_rating": null
-    },
-    {
-      "title": "Hotel Costiera",
-      "type": "series",
-      "average_rating": 6.6
-    },
-    {
-      "title": "The Conjuring",
-      "type": "movie",
-      "average_rating": 7.5
-    },
-    {
-      "title": "Adolescence",
-      "type": "series",
-      "average_rating": 8.1
-    },
-    {
-      "title": "Materialists",
-      "type": "movie",
-      "average_rating": 6.3
-    },
-    {
-      "title": "Doc",
-      "type": "series",
-      "average_rating": 7.3
-    },
-    {
-      "title": "28 Years Later",
-      "type": "movie",
-      "average_rating": 6.7
-    },
-    {
-      "title": "Law &amp; Order: Special Victims Unit",
-      "type": "series",
-      "average_rating": 8.1
-    },
-    {
-      "title": "Spinal Tap II: The End Continues",
-      "type": "movie",
-      "average_rating": 6.8
-    },
-    {
-      "title": "Monster",
-      "type": "series",
-      "average_rating": 7.8
-    },
-    {
-      "title": "Mission: Impossible - The Final Reckoning",
-      "type": "movie",
-      "average_rating": 7.3
-    },
-    {
-      "title": "The Rookie",
-      "type": "series",
-      "average_rating": 8.0
-    },
-    {
-      "title": "Together",
-      "type": "movie",
-      "average_rating": 6.8
-    },
-    {
-      "title": "Chief of War",
-      "type": "series",
-      "average_rating": 7.6
-    },
-    {
-      "title": "Jurassic World: Rebirth",
-      "type": "movie",
-      "average_rating": 5.9
-    },
-    {
       "title": "The Boys",
       "type": "series",
       "average_rating": 8.6
     },
     {
-      "title": "Friendship",
+      "title": "Mission: Impossible - The Final Reckoning",
       "type": "movie",
-      "average_rating": 6.8
+      "average_rating": 7.2
     },
     {
       "title": "One Piece: Wan pîsu",
@@ -373,9 +373,9 @@
       "average_rating": 9.0
     },
     {
-      "title": "Ballerina",
+      "title": "Jolly LLB 3",
       "type": "movie",
-      "average_rating": 6.9
+      "average_rating": 7.2
     },
     {
       "title": "Nine Bodies in a Mexican Morgue",
@@ -383,9 +383,9 @@
       "average_rating": 6.4
     },
     {
-      "title": "The Fantastic Four: First Steps",
+      "title": "Gabby&apos;s Dollhouse: The Movie",
       "type": "movie",
-      "average_rating": 7.3
+      "average_rating": 5.8
     },
     {
       "title": "The Rainmaker",
@@ -393,9 +393,9 @@
       "average_rating": 6.7
     },
     {
-      "title": "Bring Her Back",
+      "title": "Highest 2 Lowest",
       "type": "movie",
-      "average_rating": 7.2
+      "average_rating": 5.6
     },
     {
       "title": "Supernatural",
@@ -403,9 +403,9 @@
       "average_rating": 8.4
     },
     {
-      "title": "Wuthering Heights",
+      "title": "Downton Abbey: The Grand Finale",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 7.6
     },
     {
       "title": "Bon Appetit, Your Majesty",
@@ -413,9 +413,9 @@
       "average_rating": 8.2
     },
     {
-      "title": "Lokah Chapter 1: Chandra",
+      "title": "Elio",
       "type": "movie",
-      "average_rating": 8.1
+      "average_rating": 6.7
     },
     {
       "title": "The Sopranos",
@@ -423,19 +423,19 @@
       "average_rating": 9.2
     },
     {
-      "title": "The Life of Chuck",
+      "title": "The Lost Bus",
       "type": "movie",
-      "average_rating": 7.4
+      "average_rating": 7.3
     },
     {
       "title": "The Hack",
       "type": "series",
-      "average_rating": 7.7
+      "average_rating": 7.6
     },
     {
-      "title": "The Shawshank Redemption",
+      "title": "Splitsville",
       "type": "movie",
-      "average_rating": 9.3
+      "average_rating": 6.6
     },
     {
       "title": "The Paper",
@@ -443,9 +443,9 @@
       "average_rating": 7.1
     },
     {
-      "title": "Nosferatu",
+      "title": "Saiyaara",
       "type": "movie",
-      "average_rating": 7.2
+      "average_rating": 6.4
     },
     {
       "title": "Kimetsu no Yaiba",
@@ -453,9 +453,9 @@
       "average_rating": 8.6
     },
     {
-      "title": "Frankenstein",
+      "title": "Tron: Ares",
       "type": "movie",
-      "average_rating": 7.3
+      "average_rating": null
     },
     {
       "title": "Grey&apos;s Anatomy",
@@ -463,9 +463,9 @@
       "average_rating": 7.6
     },
     {
-      "title": "A Working Man",
+      "title": "Nobody 2",
       "type": "movie",
-      "average_rating": 5.7
+      "average_rating": 6.3
     },
     {
       "title": "Yellowstone",
@@ -473,9 +473,9 @@
       "average_rating": 8.6
     },
     {
-      "title": "Jugnuma: The Fable",
+      "title": "Materialists",
       "type": "movie",
-      "average_rating": 8.3
+      "average_rating": 6.3
     },
     {
       "title": "Outlander: Blood of My Blood",
@@ -483,9 +483,9 @@
       "average_rating": 8.3
     },
     {
-      "title": "Ice Road: Vengeance",
+      "title": "Bring Her Back",
       "type": "movie",
-      "average_rating": 4.8
+      "average_rating": 7.2
     },
     {
       "title": "South Park",
@@ -493,9 +493,9 @@
       "average_rating": 8.7
     },
     {
-      "title": "The Bad Seed",
+      "title": "The Shawshank Redemption",
       "type": "movie",
-      "average_rating": 7.4
+      "average_rating": 9.3
     },
     {
       "title": "Shingeki no Kyojin",
