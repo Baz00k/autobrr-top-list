@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T06:42:43.598956",
+  "last_updated": "2025-10-15T06:43:33.574936",
   "total_items": 100,
   "items": [
     {
@@ -40,7 +40,7 @@
     {
       "title": "The Last Frontier",
       "type": "series",
-      "average_rating": 7.2
+      "average_rating": 7.1
     },
     {
       "title": "Play Dirty",
@@ -155,7 +155,7 @@
     {
       "title": "Him",
       "type": "movie",
-      "average_rating": 5.2
+      "average_rating": 5.1
     },
     {
       "title": "Game of Thrones",
@@ -170,7 +170,7 @@
     {
       "title": "Nero",
       "type": "series",
-      "average_rating": 6.8
+      "average_rating": 6.7
     },
     {
       "title": "Psycho",
@@ -215,7 +215,7 @@
     {
       "title": "Something&apos;s Gotta Give",
       "type": "movie",
-      "average_rating": 6.7
+      "average_rating": 6.8
     },
     {
       "title": "Tulsa King",
@@ -325,7 +325,7 @@
     {
       "title": "Black Phone 2",
       "type": "movie",
-      "average_rating": 7.1
+      "average_rating": 7.0
     },
     {
       "title": "Outlander: Blood of My Blood",
@@ -475,7 +475,7 @@
     {
       "title": "John Candy: I Like Me",
       "type": "movie",
-      "average_rating": 8.4
+      "average_rating": 8.3
     },
     {
       "title": "The Walking Dead",
@@ -485,7 +485,7 @@
     {
       "title": "After the Hunt",
       "type": "movie",
-      "average_rating": 6.0
+      "average_rating": 6.1
     },
     {
       "title": "Invasion",
