@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-17T06:42:12.800754",
+  "last_updated": "2025-10-18T06:38:59.762301",
   "total_items": 100,
   "items": [
     {
@@ -30,7 +30,7 @@
     {
       "title": "Boots",
       "type": "series",
-      "average_rating": 8.0
+      "average_rating": 7.9
     },
     {
       "title": "The Lost Bus",
@@ -40,7 +40,7 @@
     {
       "title": "The Last Frontier",
       "type": "series",
-      "average_rating": 7.1
+      "average_rating": 7.0
     },
     {
       "title": "Play Dirty",
@@ -190,7 +190,7 @@
     {
       "title": "9-1-1: Nashville",
       "type": "series",
-      "average_rating": 5.1
+      "average_rating": 5.0
     },
     {
       "title": "Caught Stealing",
@@ -323,9 +323,9 @@
       "average_rating": 8.6
     },
     {
-      "title": "Mercy",
+      "title": "Black Phone 2",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 6.7
     },
     {
       "title": "Outlander: Blood of My Blood",
@@ -333,9 +333,9 @@
       "average_rating": 8.2
     },
     {
-      "title": "Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen",
+      "title": "Mercy",
       "type": "movie",
-      "average_rating": 8.5
+      "average_rating": null
     },
     {
       "title": "The Pitt",
@@ -343,9 +343,9 @@
       "average_rating": 8.9
     },
     {
-      "title": "The Fantastic Four: First Steps",
+      "title": "Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen",
       "type": "movie",
-      "average_rating": 7.0
+      "average_rating": 8.5
     },
     {
       "title": "The Lowdown",
@@ -353,9 +353,9 @@
       "average_rating": 7.0
     },
     {
-      "title": "Tron",
+      "title": "The Fantastic Four: First Steps",
       "type": "movie",
-      "average_rating": 6.7
+      "average_rating": 7.0
     },
     {
       "title": "The Witcher",
@@ -363,9 +363,9 @@
       "average_rating": 7.9
     },
     {
-      "title": "A House of Dynamite",
+      "title": "Tron",
       "type": "movie",
-      "average_rating": 7.4
+      "average_rating": 6.7
     },
     {
       "title": "Law &amp; Order: Special Victims Unit",
@@ -373,9 +373,9 @@
       "average_rating": 8.1
     },
     {
-      "title": "28 Years Later",
+      "title": "A House of Dynamite",
       "type": "movie",
-      "average_rating": 6.6
+      "average_rating": 7.3
     },
     {
       "title": "Supernatural",
@@ -383,9 +383,9 @@
       "average_rating": 8.4
     },
     {
-      "title": "Five Nights at Freddy&apos;s 2",
+      "title": "28 Years Later",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 6.6
     },
     {
       "title": "9-1-1",
@@ -393,9 +393,9 @@
       "average_rating": 7.9
     },
     {
-      "title": "The First Wives Club",
+      "title": "Five Nights at Freddy&apos;s 2",
       "type": "movie",
-      "average_rating": 6.5
+      "average_rating": null
     },
     {
       "title": "The Sopranos",
@@ -403,9 +403,9 @@
       "average_rating": 9.2
     },
     {
-      "title": "F1",
+      "title": "The First Wives Club",
       "type": "movie",
-      "average_rating": 7.7
+      "average_rating": 6.5
     },
     {
       "title": "Shingeki no Kyojin",
@@ -413,9 +413,9 @@
       "average_rating": 9.1
     },
     {
-      "title": "Hamnet",
+      "title": "F1",
       "type": "movie",
-      "average_rating": 8.3
+      "average_rating": 7.7
     },
     {
       "title": "The Rainmaker",
@@ -423,9 +423,9 @@
       "average_rating": 6.8
     },
     {
-      "title": "Hocus Pocus",
+      "title": "Hamnet",
       "type": "movie",
-      "average_rating": 6.9
+      "average_rating": 8.3
     },
     {
       "title": "Better Call Saul",
@@ -433,9 +433,9 @@
       "average_rating": 9.0
     },
     {
-      "title": "The Thursday Murder Club",
+      "title": "Hocus Pocus",
       "type": "movie",
-      "average_rating": 6.5
+      "average_rating": 6.9
     },
     {
       "title": "Yellowstone",
@@ -443,9 +443,9 @@
       "average_rating": 8.6
     },
     {
-      "title": "In the Light of the Moon",
+      "title": "The Thursday Murder Club",
       "type": "movie",
-      "average_rating": 5.5
+      "average_rating": 6.5
     },
     {
       "title": "Black Mirror",
@@ -453,9 +453,9 @@
       "average_rating": 8.7
     },
     {
-      "title": "The Black Phone",
+      "title": "In the Light of the Moon",
       "type": "movie",
-      "average_rating": 6.9
+      "average_rating": 5.5
     },
     {
       "title": "El refugio atómico",
@@ -463,9 +463,9 @@
       "average_rating": 5.6
     },
     {
-      "title": "John Candy: I Like Me",
+      "title": "The Black Phone",
       "type": "movie",
-      "average_rating": 8.3
+      "average_rating": 6.9
     },
     {
       "title": "True Detective",
@@ -473,9 +473,9 @@
       "average_rating": 8.9
     },
     {
-      "title": "After the Hunt",
+      "title": "John Candy: I Like Me",
       "type": "movie",
-      "average_rating": 6.2
+      "average_rating": 8.3
     },
     {
       "title": "The Walking Dead",
@@ -483,9 +483,9 @@
       "average_rating": 8.1
     },
     {
-      "title": "Dracula: A Love Tale",
+      "title": "After the Hunt",
       "type": "movie",
-      "average_rating": 6.1
+      "average_rating": 6.2
     },
     {
       "title": "Invasion",
@@ -493,9 +493,9 @@
       "average_rating": 6.2
     },
     {
-      "title": "Father of the Bride",
+      "title": "Dracula: A Love Tale",
       "type": "movie",
-      "average_rating": 6.6
+      "average_rating": 6.2
     },
     {
       "title": "Gilmore Girls",
