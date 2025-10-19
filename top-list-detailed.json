@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-18T06:38:59.762301",
+  "last_updated": "2025-10-19T06:40:07.862038",
   "total_items": 100,
   "items": [
     {
@@ -30,7 +30,7 @@
     {
       "title": "Boots",
       "type": "series",
-      "average_rating": 7.9
+      "average_rating": 8.0
     },
     {
       "title": "The Lost Bus",
@@ -40,7 +40,7 @@
     {
       "title": "The Last Frontier",
       "type": "series",
-      "average_rating": 7.0
+      "average_rating": 7.1
     },
     {
       "title": "Play Dirty",
@@ -85,7 +85,7 @@
     {
       "title": "The Smashing Machine",
       "type": "movie",
-      "average_rating": 6.7
+      "average_rating": 6.8
     },
     {
       "title": "Wonder Man",
@@ -190,7 +190,7 @@
     {
       "title": "9-1-1: Nashville",
       "type": "series",
-      "average_rating": 5.0
+      "average_rating": 5.1
     },
     {
       "title": "Caught Stealing",
@@ -285,7 +285,7 @@
     {
       "title": "Frankenstein",
       "type": "movie",
-      "average_rating": 7.4
+      "average_rating": 7.3
     },
     {
       "title": "The Terminal List: Dark Wolf",
@@ -420,7 +420,7 @@
     {
       "title": "The Rainmaker",
       "type": "series",
-      "average_rating": 6.8
+      "average_rating": 6.9
     },
     {
       "title": "Hamnet",
