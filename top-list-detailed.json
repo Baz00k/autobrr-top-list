@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-21T06:43:41.064483",
+  "last_updated": "2025-10-22T06:45:00.944633",
   "total_items": 100,
   "items": [
     {
@@ -80,7 +80,7 @@
     {
       "title": "Boston Blue",
       "type": "series",
-      "average_rating": 6.6
+      "average_rating": 6.5
     },
     {
       "title": "The Black Phone",
@@ -140,7 +140,7 @@
     {
       "title": "Murdaugh: Death in the Family",
       "type": "series",
-      "average_rating": 7.1
+      "average_rating": 7.0
     },
     {
       "title": "Frankenstein",
@@ -180,7 +180,7 @@
     {
       "title": "Sheriff Country",
       "type": "series",
-      "average_rating": 6.3
+      "average_rating": 6.1
     },
     {
       "title": "The Conjuring: Last Rites",
@@ -225,7 +225,7 @@
     {
       "title": "Springsteen: Deliver Me from Nowhere",
       "type": "movie",
-      "average_rating": 5.6
+      "average_rating": 5.7
     },
     {
       "title": "Breaking Bad",
@@ -275,12 +275,12 @@
     {
       "title": "Bugonia",
       "type": "movie",
-      "average_rating": 7.5
+      "average_rating": 7.4
     },
     {
       "title": "Chad Powers",
       "type": "series",
-      "average_rating": 7.4
+      "average_rating": 7.5
     },
     {
       "title": "A House of Dynamite",
@@ -375,7 +375,7 @@
     {
       "title": "The Long Walk",
       "type": "movie",
-      "average_rating": 7.3
+      "average_rating": 7.2
     },
     {
       "title": "The Rookie",
@@ -390,7 +390,7 @@
     {
       "title": "The Rainmaker",
       "type": "series",
-      "average_rating": 6.9
+      "average_rating": 7.0
     },
     {
       "title": "Tron: Legacy",
