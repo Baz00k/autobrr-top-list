@@ -1,45 +1,123 @@
 [
   {
-    "title": "The Woman in Cabin 10"
-  },
-  {
-    "title": "Monster"
-  },
-  {
-    "title": "One Battle After Another"
-  },
-  {
-    "title": "Boots"
-  },
-  {
-    "title": "Black Phone 2"
+    "title": "A House of Dynamite"
   },
   {
     "title": "Task"
   },
   {
-    "title": "Tron: Ares"
+    "title": "Weapons"
+  },
+  {
+    "title": "Nobody Wants This"
+  },
+  {
+    "title": "One Battle After Another"
+  },
+  {
+    "title": "Monster"
+  },
+  {
+    "title": "The Long Walk"
   },
   {
     "title": "The Diplomat"
   },
   {
-    "title": "Send Help"
+    "title": "The Woman in Cabin 10"
   },
   {
-    "title": "South Park"
+    "title": "Boots"
   },
   {
-    "title": "The Perfect Neighbor"
+    "title": "Frankenstein"
+  },
+  {
+    "title": "Stranger Things"
+  },
+  {
+    "title": "Black Phone 2"
+  },
+  {
+    "title": "Slow Horses"
+  },
+  {
+    "title": "Springsteen: Deliver Me from Nowhere"
+  },
+  {
+    "title": "Lazarus"
+  },
+  {
+    "title": "Regretting You"
+  },
+  {
+    "title": "Gen V"
+  },
+  {
+    "title": "The Hand That Rocks the Cradle"
   },
   {
     "title": "The Last Frontier"
   },
   {
-    "title": "Weapons"
+    "title": "Abadi Nan Jaya"
+  },
+  {
+    "title": "It: Welcome to Derry"
+  },
+  {
+    "title": "Bugonia"
+  },
+  {
+    "title": "Il mostro"
+  },
+  {
+    "title": "Crime 101"
+  },
+  {
+    "title": "Only Murders in the Building"
+  },
+  {
+    "title": "Tron: Ares"
+  },
+  {
+    "title": "Game of Thrones"
+  },
+  {
+    "title": "The Perfect Neighbor"
   },
   {
     "title": "Devil in Disguise: John Wayne Gacy"
+  },
+  {
+    "title": "Good Boy"
+  },
+  {
+    "title": "Breaking Bad"
+  },
+  {
+    "title": "Eden"
+  },
+  {
+    "title": "House of Guinness"
+  },
+  {
+    "title": "Gekijô-ban Chensô Man Reze-hen"
+  },
+  {
+    "title": "Murdaugh: Death in the Family"
+  },
+  {
+    "title": "The Roses"
+  },
+  {
+    "title": "High Potential"
+  },
+  {
+    "title": "The Black Phone"
+  },
+  {
+    "title": "Wednesday"
   },
   {
     "title": "Roofman"
@@ -48,112 +126,40 @@
     "title": "Boston Blue"
   },
   {
-    "title": "The Black Phone"
-  },
-  {
-    "title": "Peacemaker"
-  },
-  {
-    "title": "The Twits"
-  },
-  {
-    "title": "Slow Horses"
-  },
-  {
-    "title": "The Lost Bus"
-  },
-  {
-    "title": "Gen V"
-  },
-  {
-    "title": "Good Fortune"
-  },
-  {
-    "title": "Stranger Things"
-  },
-  {
-    "title": "I Know What You Did Last Summer"
-  },
-  {
-    "title": "House of Guinness"
-  },
-  {
-    "title": "The Substance"
-  },
-  {
-    "title": "Murdaugh: Death in the Family"
-  },
-  {
-    "title": "Frankenstein"
-  },
-  {
-    "title": "Wayward"
-  },
-  {
-    "title": "After the Hunt"
-  },
-  {
-    "title": "Game of Thrones"
-  },
-  {
-    "title": "Superman"
-  },
-  {
-    "title": "Only Murders in the Building"
-  },
-  {
-    "title": "Play Dirty"
-  },
-  {
-    "title": "Sheriff Country"
-  },
-  {
-    "title": "The Conjuring: Last Rites"
-  },
-  {
-    "title": "The Chair Company"
-  },
-  {
-    "title": "Culpa nuestra"
-  },
-  {
-    "title": "Black Rabbit"
-  },
-  {
-    "title": "Kantara: A Legend - Chapter 1"
-  },
-  {
-    "title": "High Potential"
-  },
-  {
-    "title": "Vicious"
-  },
-  {
-    "title": "Wednesday"
-  },
-  {
-    "title": "Springsteen: Deliver Me from Nowhere"
-  },
-  {
-    "title": "Breaking Bad"
-  },
-  {
-    "title": "Bring Her Back"
-  },
-  {
-    "title": "Dexter"
-  },
-  {
-    "title": "KPop Demon Hunters"
+    "title": "Dead of Winter"
   },
   {
     "title": "Tulsa King"
   },
   {
-    "title": "Caught Stealing"
+    "title": "Good Fortune"
   },
   {
-    "title": "Nadie nos vio partir"
+    "title": "Pluribus"
+  },
+  {
+    "title": "I Know What You Did Last Summer"
+  },
+  {
+    "title": "Wayward"
+  },
+  {
+    "title": "The Substance"
+  },
+  {
+    "title": "South Park"
+  },
+  {
+    "title": "Bone Lake"
+  },
+  {
+    "title": "Dexter"
+  },
+  {
+    "title": "Superman"
+  },
+  {
+    "title": "The Chair Company"
   },
   {
     "title": "Sinners"
@@ -162,100 +168,64 @@
     "title": "Boku no Hîrô Akademia"
   },
   {
-    "title": "Bugonia"
+    "title": "Kantara: A Legend - Chapter 1"
   },
   {
     "title": "Chad Powers"
   },
   {
-    "title": "A House of Dynamite"
+    "title": "Hocus Pocus"
   },
   {
-    "title": "It: Welcome to Derry"
+    "title": "Sheriff Country"
   },
   {
-    "title": "How to Train Your Dragon"
+    "title": "The Conjuring: Last Rites"
+  },
+  {
+    "title": "Black Rabbit"
+  },
+  {
+    "title": "Shelby Oaks"
   },
   {
     "title": "9-1-1: Nashville"
   },
   {
-    "title": "The Smashing Machine"
-  },
-  {
-    "title": "Grey&apos;s Anatomy"
-  },
-  {
-    "title": "The Naked Gun"
-  },
-  {
-    "title": "Riot Women"
-  },
-  {
-    "title": "The Astronaut"
-  },
-  {
-    "title": "Alien: Earth"
-  },
-  {
-    "title": "Caramelo"
-  },
-  {
-    "title": "The Morning Show"
-  },
-  {
-    "title": "Good Boy"
-  },
-  {
-    "title": "Dexter: Resurrection"
-  },
-  {
-    "title": "Hocus Pocus"
-  },
-  {
-    "title": "The Iris Affair"
-  },
-  {
-    "title": "Un fantasma en la batalla"
+    "title": "The Lost Bus"
   },
   {
     "title": "The Boys"
   },
   {
-    "title": "The Long Walk"
+    "title": "Bring Her Back"
+  },
+  {
+    "title": "Peacemaker"
+  },
+  {
+    "title": "The Twits"
+  },
+  {
+    "title": "The Morning Show"
+  },
+  {
+    "title": "Don&apos;t Say a Word"
+  },
+  {
+    "title": "Grey&apos;s Anatomy"
+  },
+  {
+    "title": "Play Dirty"
+  },
+  {
+    "title": "The Witcher"
+  },
+  {
+    "title": "KPop Demon Hunters"
   },
   {
     "title": "The Rookie"
-  },
-  {
-    "title": "A Big Bold Beautiful Journey"
-  },
-  {
-    "title": "The Rainmaker"
-  },
-  {
-    "title": "Tron: Legacy"
-  },
-  {
-    "title": "9-1-1"
-  },
-  {
-    "title": "The Fantastic Four: First Steps"
-  },
-  {
-    "title": "Nero"
-  },
-  {
-    "title": "The Menu"
-  },
-  {
-    "title": "Blue Lights"
-  },
-  {
-    "title": "F1"
-  },
-  {
-    "title": "Supernatural"
   },
   {
     "title": "28 Years Later"
@@ -264,39 +234,69 @@
     "title": "Law &amp; Order: Special Victims Unit"
   },
   {
-    "title": "Steve"
+    "title": "After the Hunt"
   },
   {
-    "title": "Enfes Bir Aksam"
+    "title": "Supernatural"
   },
   {
-    "title": "Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen"
+    "title": "Caught Stealing"
   },
   {
-    "title": "The Sopranos"
+    "title": "Dexter: Resurrection"
   },
   {
-    "title": "Psycho"
-  },
-  {
-    "title": "The Pitt"
-  },
-  {
-    "title": "Regretting You"
+    "title": "Thamma"
   },
   {
     "title": "Elsbeth"
   },
   {
-    "title": "Mission: Impossible - The Final Reckoning"
+    "title": "Dracula: A Love Tale"
   },
   {
     "title": "Shingeki no Kyojin"
   },
   {
-    "title": "The Strangers: Chapter 2"
+    "title": "Predator: Badlands"
   },
   {
-    "title": "The Witcher"
+    "title": "The Sopranos"
+  },
+  {
+    "title": "It"
+  },
+  {
+    "title": "The Walking Dead"
+  },
+  {
+    "title": "Culpa nuestra"
+  },
+  {
+    "title": "Better Call Saul"
+  },
+  {
+    "title": "The Naked Gun"
+  },
+  {
+    "title": "Alien: Earth"
+  },
+  {
+    "title": "Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen"
+  },
+  {
+    "title": "Yellowstone"
+  },
+  {
+    "title": "Scream"
+  },
+  {
+    "title": "Invasion"
+  },
+  {
+    "title": "F1"
+  },
+  {
+    "title": "Shameless"
   }
 ]
