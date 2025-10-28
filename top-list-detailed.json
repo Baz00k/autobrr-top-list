@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-27T06:47:58.714104",
+  "last_updated": "2025-10-28T06:45:58.480189",
   "total_items": 100,
   "items": [
     {
@@ -55,7 +55,7 @@
     {
       "title": "Frankenstein",
       "type": "movie",
-      "average_rating": 7.7
+      "average_rating": 7.8
     },
     {
       "title": "Stranger Things",
@@ -95,7 +95,7 @@
     {
       "title": "The Hand That Rocks the Cradle",
       "type": "movie",
-      "average_rating": 5.3
+      "average_rating": 5.2
     },
     {
       "title": "The Last Frontier",
@@ -105,12 +105,12 @@
     {
       "title": "Abadi Nan Jaya",
       "type": "movie",
-      "average_rating": 5.5
+      "average_rating": 5.4
     },
     {
       "title": "It: Welcome to Derry",
       "type": "series",
-      "average_rating": 8.5
+      "average_rating": 8.1
     },
     {
       "title": "Bugonia",
@@ -255,7 +255,7 @@
     {
       "title": "Bone Lake",
       "type": "movie",
-      "average_rating": 5.9
+      "average_rating": 5.8
     },
     {
       "title": "Dexter",
@@ -315,7 +315,7 @@
     {
       "title": "Shelby Oaks",
       "type": "movie",
-      "average_rating": 5.9
+      "average_rating": 5.8
     },
     {
       "title": "9-1-1: Nashville",
