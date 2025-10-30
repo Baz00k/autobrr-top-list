@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-29T06:46:04.579709",
+  "last_updated": "2025-10-30T06:44:19.560836",
   "total_items": 100,
   "items": [
     {
@@ -45,7 +45,7 @@
     {
       "title": "The Woman in Cabin 10",
       "type": "movie",
-      "average_rating": 5.9
+      "average_rating": 5.8
     },
     {
       "title": "Boots",
@@ -80,12 +80,12 @@
     {
       "title": "Lazarus",
       "type": "series",
-      "average_rating": 6.3
+      "average_rating": 6.2
     },
     {
       "title": "Regretting You",
       "type": "movie",
-      "average_rating": 6.3
+      "average_rating": 6.2
     },
     {
       "title": "Gen V",
@@ -95,7 +95,7 @@
     {
       "title": "The Hand That Rocks the Cradle",
       "type": "movie",
-      "average_rating": 5.2
+      "average_rating": 5.3
     },
     {
       "title": "The Last Frontier",
@@ -108,9 +108,9 @@
       "average_rating": 5.4
     },
     {
-      "title": "It: Welcome to Derry",
+      "title": "IT: Welcome to Derry",
       "type": "series",
-      "average_rating": 8.1
+      "average_rating": 8.0
     },
     {
       "title": "Bugonia",
@@ -210,12 +210,12 @@
     {
       "title": "Boston Blue",
       "type": "series",
-      "average_rating": 6.4
+      "average_rating": 6.3
     },
     {
       "title": "Dead of Winter",
       "type": "movie",
-      "average_rating": 6.2
+      "average_rating": 6.1
     },
     {
       "title": "Tulsa King",
