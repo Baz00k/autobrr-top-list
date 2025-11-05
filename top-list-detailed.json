@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-04T06:45:23.139841",
+  "last_updated": "2025-11-05T06:45:02.534963",
   "total_items": 100,
   "items": [
     {
@@ -10,7 +10,7 @@
     {
       "title": "IT: Welcome to Derry",
       "type": "series",
-      "average_rating": 7.9
+      "average_rating": 7.8
     },
     {
       "title": "Weapons",
@@ -55,7 +55,7 @@
     {
       "title": "Frankenstein",
       "type": "movie",
-      "average_rating": 7.8
+      "average_rating": 7.7
     },
     {
       "title": "Slow Horses",
@@ -185,7 +185,7 @@
     {
       "title": "Kantara: A Legend - Chapter 1",
       "type": "movie",
-      "average_rating": 8.5
+      "average_rating": 8.4
     },
     {
       "title": "Tulsa King",
@@ -305,7 +305,7 @@
     {
       "title": "The Rats: A Witcher Tale",
       "type": "movie",
-      "average_rating": 4.6
+      "average_rating": 4.5
     },
     {
       "title": "The Chair Company",
@@ -450,12 +450,12 @@
     {
       "title": "Talamasca: The Secret Order",
       "type": "series",
-      "average_rating": 6.6
+      "average_rating": 6.5
     },
     {
       "title": "Die My Love",
       "type": "movie",
-      "average_rating": 6.5
+      "average_rating": 6.6
     },
     {
       "title": "Yellowstone",
@@ -500,7 +500,7 @@
     {
       "title": "Sheriff Country",
       "type": "series",
-      "average_rating": 6.2
+      "average_rating": 6.3
     }
   ]
 }
