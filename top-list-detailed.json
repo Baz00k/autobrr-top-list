@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-11-05T06:45:02.534963",
+  "last_updated": "2025-11-06T06:45:57.859278",
   "total_items": 100,
   "items": [
     {
       "title": "A House of Dynamite",
       "type": "movie",
-      "average_rating": 6.5
+      "average_rating": 6.4
     },
     {
       "title": "IT: Welcome to Derry",
@@ -80,7 +80,7 @@
     {
       "title": "Down Cemetery Road",
       "type": "series",
-      "average_rating": 7.1
+      "average_rating": 7.2
     },
     {
       "title": "Jurassic World: Rebirth",
@@ -125,7 +125,7 @@
     {
       "title": "Black Phone 2",
       "type": "movie",
-      "average_rating": 6.6
+      "average_rating": 6.5
     },
     {
       "title": "Only Murders in the Building",
@@ -155,7 +155,7 @@
     {
       "title": "Predator: Badlands",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 7.4
     },
     {
       "title": "Lazarus",
@@ -205,7 +205,7 @@
     {
       "title": "The Running Man",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 7.0
     },
     {
       "title": "Chad Powers",
@@ -365,7 +365,7 @@
     {
       "title": "Abadi Nan Jaya",
       "type": "movie",
-      "average_rating": 5.4
+      "average_rating": 5.3
     },
     {
       "title": "The Rookie",
@@ -500,7 +500,7 @@
     {
       "title": "Sheriff Country",
       "type": "series",
-      "average_rating": 6.3
+      "average_rating": 6.2
     }
   ]
 }
