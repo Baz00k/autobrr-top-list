@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-07T06:45:22.875969",
+  "last_updated": "2025-11-08T06:40:58.740793",
   "total_items": 100,
   "items": [
     {
@@ -130,7 +130,7 @@
     {
       "title": "Only Murders in the Building",
       "type": "series",
-      "average_rating": 8.1
+      "average_rating": 8.0
     },
     {
       "title": "Gekijô-ban Chensô Man Reze-hen",
@@ -220,7 +220,7 @@
     {
       "title": "Pluribus",
       "type": "series",
-      "average_rating": 9.3
+      "average_rating": 9.1
     },
     {
       "title": "Hocus Pocus",
@@ -285,7 +285,7 @@
     {
       "title": "Lokah Chapter 1: Chandra",
       "type": "movie",
-      "average_rating": 7.9
+      "average_rating": 7.8
     },
     {
       "title": "House of Guinness",
@@ -335,7 +335,7 @@
     {
       "title": "The Hand That Rocks the Cradle",
       "type": "movie",
-      "average_rating": 5.3
+      "average_rating": 5.2
     },
     {
       "title": "Dark Winds",
@@ -345,7 +345,7 @@
     {
       "title": "Good Fortune",
       "type": "movie",
-      "average_rating": 6.9
+      "average_rating": 6.8
     },
     {
       "title": "Black Rabbit",
@@ -395,7 +395,7 @@
     {
       "title": "Nuremberg",
       "type": "movie",
-      "average_rating": 7.5
+      "average_rating": 7.6
     },
     {
       "title": "Wayward",
@@ -500,7 +500,7 @@
     {
       "title": "Sheriff Country",
       "type": "series",
-      "average_rating": 6.2
+      "average_rating": 6.3
     }
   ]
 }
