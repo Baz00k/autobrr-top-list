@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-11T06:46:10.379334",
+  "last_updated": "2025-11-12T06:46:02.668692",
   "total_items": 100,
   "items": [
     {
@@ -65,7 +65,7 @@
     {
       "title": "Die My Love",
       "type": "movie",
-      "average_rating": 6.6
+      "average_rating": 6.5
     },
     {
       "title": "All&apos;s Fair",
@@ -95,7 +95,7 @@
     {
       "title": "Good Fortune",
       "type": "movie",
-      "average_rating": 6.7
+      "average_rating": 6.6
     },
     {
       "title": "Nobody Wants This",
@@ -110,7 +110,7 @@
     {
       "title": "Down Cemetery Road",
       "type": "series",
-      "average_rating": 7.1
+      "average_rating": 7.2
     },
     {
       "title": "Black Phone 2",
@@ -125,7 +125,7 @@
     {
       "title": "Baramulla",
       "type": "movie",
-      "average_rating": 6.9
+      "average_rating": 7.0
     },
     {
       "title": "Game of Thrones",
@@ -245,7 +245,7 @@
     {
       "title": "Now You See Me: Now You Don&apos;t",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 6.1
     },
     {
       "title": "Boots",
@@ -295,7 +295,7 @@
     {
       "title": "Christy",
       "type": "movie",
-      "average_rating": 6.2
+      "average_rating": 6.0
     },
     {
       "title": "The Morning Show",
@@ -315,7 +315,7 @@
     {
       "title": "Mango",
       "type": "movie",
-      "average_rating": 5.8
+      "average_rating": 5.7
     },
     {
       "title": "Mayor of Kingstown",
