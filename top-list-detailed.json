@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-12T06:46:02.668692",
+  "last_updated": "2025-11-13T06:45:48.356973",
   "total_items": 100,
   "items": [
     {
@@ -135,7 +135,7 @@
     {
       "title": "The Running Man",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 6.8
     },
     {
       "title": "Breaking Bad",
@@ -160,7 +160,7 @@
     {
       "title": "Legenden",
       "type": "series",
-      "average_rating": 7.1
+      "average_rating": 7.0
     },
     {
       "title": "Jurassic World: Rebirth",
@@ -170,7 +170,7 @@
     {
       "title": "Robin Hood",
       "type": "series",
-      "average_rating": 6.3
+      "average_rating": 6.2
     },
     {
       "title": "The Woman in Cabin 10",
@@ -220,7 +220,7 @@
     {
       "title": "I Love LA",
       "type": "series",
-      "average_rating": 5.6
+      "average_rating": 5.5
     },
     {
       "title": "Sinners",
@@ -245,7 +245,7 @@
     {
       "title": "Now You See Me: Now You Don&apos;t",
       "type": "movie",
-      "average_rating": 6.1
+      "average_rating": 6.3
     },
     {
       "title": "Boots",
@@ -315,7 +315,7 @@
     {
       "title": "Mango",
       "type": "movie",
-      "average_rating": 5.7
+      "average_rating": 5.8
     },
     {
       "title": "Mayor of Kingstown",
@@ -395,7 +395,7 @@
     {
       "title": "The Rats: A Witcher Tale",
       "type": "movie",
-      "average_rating": 4.6
+      "average_rating": 4.7
     },
     {
       "title": "The Rookie",
@@ -445,7 +445,7 @@
     {
       "title": "Caught Stealing",
       "type": "movie",
-      "average_rating": 7.0
+      "average_rating": 6.9
     },
     {
       "title": "Sheriff Country",
