@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-11-24T06:25:24.777655",
+  "last_updated": "2025-11-25T06:25:25.206147",
   "total_items": 100,
   "items": [
     {
       "title": "Frankenstein",
       "type": "movie",
-      "average_rating": 7.6
+      "average_rating": 7.5
     },
     {
       "title": "Pluribus",
@@ -110,7 +110,7 @@
     {
       "title": "The Mighty Nein",
       "type": "series",
-      "average_rating": 8.7
+      "average_rating": 8.8
     },
     {
       "title": "Playdate",
@@ -165,7 +165,7 @@
     {
       "title": "Sisu 2",
       "type": "movie",
-      "average_rating": 7.4
+      "average_rating": 7.3
     },
     {
       "title": "Breaking Bad",
@@ -215,7 +215,7 @@
     {
       "title": "Holiday Touchdown: A Bills Love Story",
       "type": "movie",
-      "average_rating": 7.0
+      "average_rating": 6.8
     },
     {
       "title": "Slow Horses",
@@ -290,7 +290,7 @@
     {
       "title": "The American Revolution",
       "type": "series",
-      "average_rating": 8.7
+      "average_rating": 8.8
     },
     {
       "title": "The Roses",
