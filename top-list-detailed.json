@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-01T06:25:35.039565",
+  "last_updated": "2025-12-02T06:25:36.625506",
   "total_items": 100,
   "items": [
     {
@@ -35,7 +35,7 @@
     {
       "title": "Wicked: For Good",
       "type": "movie",
-      "average_rating": 7.1
+      "average_rating": 7.0
     },
     {
       "title": "IT: Welcome to Derry",
@@ -50,7 +50,7 @@
     {
       "title": "Heated Rivalry",
       "type": "series",
-      "average_rating": 8.9
+      "average_rating": 8.8
     },
     {
       "title": "Bugonia",
@@ -95,7 +95,7 @@
     {
       "title": "Now You See Me: Now You Don&apos;t",
       "type": "movie",
-      "average_rating": 6.3
+      "average_rating": 6.2
     },
     {
       "title": "Absentia",
@@ -425,7 +425,7 @@
     {
       "title": "Avatar: Fire and Ash",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 7.2
     },
     {
       "title": "Robin Hood",
