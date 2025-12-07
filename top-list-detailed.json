@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-06T06:24:56.834998",
+  "last_updated": "2025-12-07T06:24:58.148723",
   "total_items": 100,
   "items": [
     {
@@ -25,7 +25,7 @@
     {
       "title": "Train Dreams",
       "type": "movie",
-      "average_rating": 7.5
+      "average_rating": 7.6
     },
     {
       "title": "The Beast in Me",
@@ -65,7 +65,7 @@
     {
       "title": "Jingle Bell Heist",
       "type": "movie",
-      "average_rating": 5.7
+      "average_rating": 5.8
     },
     {
       "title": "Landman",
@@ -155,7 +155,7 @@
     {
       "title": "Champagne Problems",
       "type": "movie",
-      "average_rating": 6.1
+      "average_rating": 6.0
     },
     {
       "title": "The Witcher",
@@ -255,7 +255,7 @@
     {
       "title": "Eternity",
       "type": "movie",
-      "average_rating": 7.2
+      "average_rating": 7.3
     },
     {
       "title": "Yellowstone",
@@ -340,7 +340,7 @@
     {
       "title": "All&apos;s Fair",
       "type": "series",
-      "average_rating": 3.1
+      "average_rating": 3.2
     },
     {
       "title": "The Roses",
@@ -425,7 +425,7 @@
     {
       "title": "Avatar: Fire and Ash",
       "type": "movie",
-      "average_rating": 7.2
+      "average_rating": null
     },
     {
       "title": "Robin Hood",
