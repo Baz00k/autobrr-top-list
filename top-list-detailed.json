@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-09T06:25:31.239106",
+  "last_updated": "2025-12-10T06:25:34.285377",
   "total_items": 100,
   "items": [
     {
@@ -15,7 +15,7 @@
     {
       "title": "Five Nights at Freddy&apos;s 2",
       "type": "movie",
-      "average_rating": 5.7
+      "average_rating": 5.6
     },
     {
       "title": "Pluribus",
@@ -25,12 +25,12 @@
     {
       "title": "Dhurandhar",
       "type": "movie",
-      "average_rating": 8.2
+      "average_rating": 8.4
     },
     {
       "title": "The Abandons",
       "type": "series",
-      "average_rating": 6.1
+      "average_rating": 6.2
     },
     {
       "title": "Zootopia 2",
@@ -70,7 +70,7 @@
     {
       "title": "Spartacus: House of Ashur",
       "type": "series",
-      "average_rating": 5.6
+      "average_rating": 5.4
     },
     {
       "title": "Train Dreams",
@@ -175,12 +175,12 @@
     {
       "title": "Hamnet",
       "type": "movie",
-      "average_rating": 8.2
+      "average_rating": 8.1
     },
     {
       "title": "The Last Frontier",
       "type": "series",
-      "average_rating": 6.8
+      "average_rating": 6.7
     },
     {
       "title": "Wicked: For Good",
@@ -195,7 +195,7 @@
     {
       "title": "Tere Ishk Mein",
       "type": "movie",
-      "average_rating": 7.9
+      "average_rating": 7.8
     },
     {
       "title": "Talamasca: The Secret Order",
@@ -285,7 +285,7 @@
     {
       "title": "Tron: Ares",
       "type": "movie",
-      "average_rating": 6.4
+      "average_rating": 6.3
     },
     {
       "title": "The Family Man",
@@ -440,7 +440,7 @@
     {
       "title": "Ripple",
       "type": "series",
-      "average_rating": 7.4
+      "average_rating": 7.5
     },
     {
       "title": "Dracula: A Love Tale",
