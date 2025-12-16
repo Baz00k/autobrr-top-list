@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-15T06:26:07.895825",
+  "last_updated": "2025-12-16T06:25:40.471998",
   "total_items": 100,
   "items": [
     {
@@ -30,7 +30,7 @@
     {
       "title": "IT: Welcome to Derry",
       "type": "series",
-      "average_rating": 7.8
+      "average_rating": 8.0
     },
     {
       "title": "Jay Kelly",
@@ -50,7 +50,7 @@
     {
       "title": "Heated Rivalry",
       "type": "series",
-      "average_rating": 8.6
+      "average_rating": 8.7
     },
     {
       "title": "Street Fighter",
@@ -110,7 +110,7 @@
     {
       "title": "Spartacus: House of Ashur",
       "type": "series",
-      "average_rating": 5.4
+      "average_rating": 5.5
     },
     {
       "title": "Avatar: Fire and Ash",
@@ -130,7 +130,7 @@
     {
       "title": "Ripple",
       "type": "series",
-      "average_rating": 7.6
+      "average_rating": 7.5
     },
     {
       "title": "Frankenstein",
@@ -143,7 +143,7 @@
       "average_rating": 9.2
     },
     {
-      "title": "Glass Onion: A Knives Out Mystery",
+      "title": "Glass Onion",
       "type": "movie",
       "average_rating": 7.1
     },
@@ -365,7 +365,7 @@
     {
       "title": "Merv",
       "type": "movie",
-      "average_rating": 5.6
+      "average_rating": 5.5
     },
     {
       "title": "The Sopranos",
