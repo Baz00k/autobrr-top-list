@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-16T06:25:40.471998",
+  "last_updated": "2025-12-17T06:25:28.163997",
   "total_items": 100,
   "items": [
     {
@@ -90,7 +90,7 @@
     {
       "title": "The War Between the Land and the Sea",
       "type": "series",
-      "average_rating": 6.4
+      "average_rating": 6.3
     },
     {
       "title": "One Battle After Another",
@@ -155,7 +155,7 @@
     {
       "title": "Die My Love",
       "type": "movie",
-      "average_rating": 6.3
+      "average_rating": 6.2
     },
     {
       "title": "Breaking Bad",
@@ -325,7 +325,7 @@
     {
       "title": "The Housemaid",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 6.2
     },
     {
       "title": "Dexter",
