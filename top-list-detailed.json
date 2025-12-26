@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-25T06:25:27.259583",
+  "last_updated": "2025-12-26T06:25:29.769091",
   "total_items": 100,
   "items": [
     {
@@ -95,7 +95,7 @@
     {
       "title": "Marty Supreme",
       "type": "movie",
-      "average_rating": 8.1
+      "average_rating": 8.2
     },
     {
       "title": "Percy Jackson and the Olympians",
@@ -165,7 +165,7 @@
     {
       "title": "The Running Man",
       "type": "movie",
-      "average_rating": 6.5
+      "average_rating": 6.4
     },
     {
       "title": "The Pitt",
@@ -185,7 +185,7 @@
     {
       "title": "Five Nights at Freddy&apos;s 2",
       "type": "movie",
-      "average_rating": 5.5
+      "average_rating": 5.4
     },
     {
       "title": "Mayor of Kingstown",
@@ -380,7 +380,7 @@
     {
       "title": "The Mighty Nein",
       "type": "series",
-      "average_rating": 8.7
+      "average_rating": 8.6
     },
     {
       "title": "Predator: Badlands",
