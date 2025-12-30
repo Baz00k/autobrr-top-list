@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-12-29T06:25:55.600099",
+  "last_updated": "2025-12-30T06:25:36.766121",
   "total_items": 100,
   "items": [
     {
       "title": "Avatar: Fire and Ash",
       "type": "movie",
-      "average_rating": 7.5
+      "average_rating": 7.4
     },
     {
       "title": "Stranger Things",
@@ -70,7 +70,7 @@
     {
       "title": "The Copenhagen Test",
       "type": "series",
-      "average_rating": 6.7
+      "average_rating": 7.0
     },
     {
       "title": "The Odyssey",
@@ -460,7 +460,7 @@
     {
       "title": "Kaesyeoro",
       "type": "series",
-      "average_rating": 6.7
+      "average_rating": 6.6
     },
     {
       "title": "Elf",
