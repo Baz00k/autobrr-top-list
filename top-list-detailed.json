@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07T06:25:36.334826",
+  "last_updated": "2026-01-08T06:25:36.677434",
   "total_items": 100,
   "items": [
     {
@@ -25,7 +25,7 @@
     {
       "title": "Marty Supreme",
       "type": "movie",
-      "average_rating": 8.3
+      "average_rating": 8.2
     },
     {
       "title": "Fallout",
@@ -85,7 +85,7 @@
     {
       "title": "Anaconda",
       "type": "movie",
-      "average_rating": 6.1
+      "average_rating": 6.0
     },
     {
       "title": "Game of Thrones",
@@ -385,7 +385,7 @@
     {
       "title": "Five Nights at Freddy&apos;s 2",
       "type": "movie",
-      "average_rating": 5.3
+      "average_rating": 5.2
     },
     {
       "title": "True Detective",
