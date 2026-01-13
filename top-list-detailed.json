@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12T06:25:59.024877",
+  "last_updated": "2026-01-13T06:25:36.608765",
   "total_items": 100,
   "items": [
     {
@@ -80,12 +80,12 @@
     {
       "title": "Pluribus",
       "type": "series",
-      "average_rating": 8.1
+      "average_rating": 8.0
     },
     {
       "title": "Bugonia",
       "type": "movie",
-      "average_rating": 7.5
+      "average_rating": 7.4
     },
     {
       "title": "The Night Manager",
@@ -115,7 +115,7 @@
     {
       "title": "Greenland 2: Migration",
       "type": "movie",
-      "average_rating": 6.0
+      "average_rating": 5.9
     },
     {
       "title": "Game of Thrones",
@@ -185,7 +185,7 @@
     {
       "title": "Zootopia 2",
       "type": "movie",
-      "average_rating": 7.6
+      "average_rating": 7.5
     },
     {
       "title": "All Her Fault",
@@ -205,7 +205,7 @@
     {
       "title": "Train Dreams",
       "type": "movie",
-      "average_rating": 7.5
+      "average_rating": 7.6
     },
     {
       "title": "Best Medicine",
@@ -220,7 +220,7 @@
     {
       "title": "Girl Taken",
       "type": "series",
-      "average_rating": 6.1
+      "average_rating": 6.2
     },
     {
       "title": "Greenland",
@@ -485,7 +485,7 @@
     {
       "title": "Undertone",
       "type": "movie",
-      "average_rating": 8.1
+      "average_rating": 8.0
     },
     {
       "title": "Yellowstone",
