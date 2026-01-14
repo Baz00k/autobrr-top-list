@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-01-13T06:25:36.608765",
+  "last_updated": "2026-01-14T06:26:59.582290",
   "total_items": 100,
   "items": [
     {
       "title": "People We Meet on Vacation",
       "type": "movie",
-      "average_rating": 6.9
+      "average_rating": 6.8
     },
     {
       "title": "Stranger Things",
@@ -145,7 +145,7 @@
     {
       "title": "Der Tiger",
       "type": "movie",
-      "average_rating": 6.6
+      "average_rating": 6.5
     },
     {
       "title": "IT: Welcome to Derry",
@@ -210,7 +210,7 @@
     {
       "title": "Best Medicine",
       "type": "series",
-      "average_rating": 5.6
+      "average_rating": 5.7
     },
     {
       "title": "Eojjeolsuga eobsda",
@@ -248,7 +248,7 @@
       "average_rating": 7.5
     },
     {
-      "title": "Shingeki no Kyojin",
+      "title": "Shingeki no kyojin",
       "type": "series",
       "average_rating": 9.1
     },
@@ -475,7 +475,7 @@
     {
       "title": "Rental Family",
       "type": "movie",
-      "average_rating": 7.9
+      "average_rating": 7.8
     },
     {
       "title": "Grey&apos;s Anatomy",
