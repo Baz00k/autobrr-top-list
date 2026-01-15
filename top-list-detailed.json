@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14T06:26:59.582290",
+  "last_updated": "2026-01-15T06:25:29.991331",
   "total_items": 100,
   "items": [
     {
@@ -295,7 +295,7 @@
     {
       "title": "28 Years Later: The Bone Temple",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 7.7
     },
     {
       "title": "The Copenhagen Test",
@@ -485,7 +485,7 @@
     {
       "title": "Undertone",
       "type": "movie",
-      "average_rating": 8.0
+      "average_rating": 7.9
     },
     {
       "title": "Yellowstone",
