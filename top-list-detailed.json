@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-20T06:25:55.537196",
+  "last_updated": "2026-01-21T06:26:03.861596",
   "total_items": 100,
   "items": [
     {
@@ -10,7 +10,7 @@
     {
       "title": "Agatha Christie&apos;s Seven Dials",
       "type": "series",
-      "average_rating": 6.3
+      "average_rating": 6.2
     },
     {
       "title": "28 Years Later: The Bone Temple",
@@ -90,7 +90,7 @@
     {
       "title": "Star Trek: Starfleet Academy",
       "type": "series",
-      "average_rating": 4.7
+      "average_rating": 4.6
     },
     {
       "title": "28 Years Later",
@@ -130,7 +130,7 @@
     {
       "title": "A Knight of the Seven Kingdoms",
       "type": "series",
-      "average_rating": 8.5
+      "average_rating": 8.4
     },
     {
       "title": "The Running Man",
@@ -305,7 +305,7 @@
     {
       "title": "O Agente Secreto",
       "type": "movie",
-      "average_rating": 7.9
+      "average_rating": 7.8
     },
     {
       "title": "Shingeki no kyojin",
@@ -385,7 +385,7 @@
     {
       "title": "Killer Whale",
       "type": "movie",
-      "average_rating": 3.5
+      "average_rating": 3.4
     },
     {
       "title": "Severance",
