@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T06:26:00.596004",
+  "last_updated": "2026-01-29T06:29:05.673240",
   "total_items": 100,
   "items": [
     {
@@ -150,7 +150,7 @@
     {
       "title": "Star Trek: Starfleet Academy",
       "type": "series",
-      "average_rating": 4.3
+      "average_rating": 4.2
     },
     {
       "title": "O Agente Secreto",
@@ -195,7 +195,7 @@
     {
       "title": "Border 2",
       "type": "movie",
-      "average_rating": 7.8
+      "average_rating": 7.7
     },
     {
       "title": "Pluribus",
@@ -235,7 +235,7 @@
     {
       "title": "Send Help",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 7.1
     },
     {
       "title": "Hijack",
@@ -290,7 +290,7 @@
     {
       "title": "The Pendragon Cycle: Rise of the Merlin",
       "type": "series",
-      "average_rating": 6.4
+      "average_rating": 6.3
     },
     {
       "title": "Wuthering Heights",
@@ -310,7 +310,7 @@
     {
       "title": "The Beast in Me",
       "type": "series",
-      "average_rating": 7.5
+      "average_rating": 7.4
     },
     {
       "title": "Zootopia 2",
@@ -375,7 +375,7 @@
     {
       "title": "Greenland 2: Migration",
       "type": "movie",
-      "average_rating": 5.6
+      "average_rating": 5.5
     },
     {
       "title": "Better Call Saul",
