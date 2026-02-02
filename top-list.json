@@ -1,9 +1,33 @@
 [
   {
-    "title": "The Rip"
+    "title": "Melania"
+  },
+  {
+    "title": "Bridgerton"
+  },
+  {
+    "title": "The Wrecking Crew"
   },
   {
     "title": "A Knight of the Seven Kingdoms"
+  },
+  {
+    "title": "Iron Lung"
+  },
+  {
+    "title": "Wonder Man"
+  },
+  {
+    "title": "Send Help"
+  },
+  {
+    "title": "Fallout"
+  },
+  {
+    "title": "The Rip"
+  },
+  {
+    "title": "The Pitt"
   },
   {
     "title": "Sinners"
@@ -15,37 +39,19 @@
     "title": "One Battle After Another"
   },
   {
-    "title": "The Pitt"
+    "title": "The Night Manager"
   },
   {
     "title": "The Housemaid"
   },
   {
-    "title": "Landman"
-  },
-  {
-    "title": "Masters of the Universe"
-  },
-  {
-    "title": "Agatha Christie&apos;s Seven Dials"
+    "title": "Stranger Things"
   },
   {
     "title": "Marty Supreme"
   },
   {
-    "title": "Stranger Things"
-  },
-  {
-    "title": "28 Years Later: The Bone Temple"
-  },
-  {
-    "title": "Fallout"
-  },
-  {
-    "title": "Mercy"
-  },
-  {
-    "title": "The Night Manager"
+    "title": "Landman"
   },
   {
     "title": "Hamnet"
@@ -54,28 +60,82 @@
     "title": "Steal"
   },
   {
-    "title": "Bugonia"
-  },
-  {
-    "title": "The Beauty"
-  },
-  {
-    "title": "Return to Silent Hill"
-  },
-  {
-    "title": "Marshals"
-  },
-  {
-    "title": "People We Meet on Vacation"
+    "title": "Dhurandhar"
   },
   {
     "title": "Heated Rivalry"
   },
   {
+    "title": "Anaconda"
+  },
+  {
+    "title": "Game of Thrones"
+  },
+  {
+    "title": "Mercy"
+  },
+  {
+    "title": "The Beauty"
+  },
+  {
+    "title": "Wuthering Heights"
+  },
+  {
+    "title": "Agatha Christie&apos;s Seven Dials"
+  },
+  {
+    "title": "Zootopia 2"
+  },
+  {
+    "title": "Shrinking"
+  },
+  {
+    "title": "Bugonia"
+  },
+  {
+    "title": "Memory of a Killer"
+  },
+  {
     "title": "Train Dreams"
   },
   {
+    "title": "Star Trek: Starfleet Academy"
+  },
+  {
+    "title": "Greenland 2: Migration"
+  },
+  {
+    "title": "Breaking Bad"
+  },
+  {
+    "title": "28 Years Later: The Bone Temple"
+  },
+  {
     "title": "Jujutsu Kaisen"
+  },
+  {
+    "title": "Shelter"
+  },
+  {
+    "title": "Daredevil: Born Again"
+  },
+  {
+    "title": "If I Had Legs I&apos;d Kick You"
+  },
+  {
+    "title": "Schitt$ Creek"
+  },
+  {
+    "title": "Frankenstein"
+  },
+  {
+    "title": "Under Salt Marsh"
+  },
+  {
+    "title": "Home Alone"
+  },
+  {
+    "title": "Ponies"
   },
   {
     "title": "Affeksjonsverdi"
@@ -84,79 +144,103 @@
     "title": "Free Bert"
   },
   {
-    "title": "Frankenstein"
-  },
-  {
-    "title": "Star Trek: Starfleet Academy"
-  },
-  {
-    "title": "O Agente Secreto"
-  },
-  {
-    "title": "Game of Thrones"
-  },
-  {
     "title": "Avatar: Fire and Ash"
-  },
-  {
-    "title": "Ponies"
-  },
-  {
-    "title": "Wake Up Dead Man"
-  },
-  {
-    "title": "Breaking Bad"
-  },
-  {
-    "title": "The Running Man"
-  },
-  {
-    "title": "Finding Her Edge"
-  },
-  {
-    "title": "Border 2"
-  },
-  {
-    "title": "Pluribus"
-  },
-  {
-    "title": "Springsteen: Deliver Me from Nowhere"
-  },
-  {
-    "title": "Run Away"
-  },
-  {
-    "title": "28 Years Later"
   },
   {
     "title": "The Rookie"
   },
   {
-    "title": "F1"
+    "title": "Wake Up Dead Man"
   },
   {
-    "title": "Percy Jackson and the Olympians"
+    "title": "Pluribus"
   },
   {
-    "title": "Send Help"
+    "title": "Return to Silent Hill"
   },
   {
     "title": "Hijack"
   },
   {
-    "title": "Weapons"
+    "title": "The Odyssey"
   },
   {
     "title": "Tell Me Lies"
   },
   {
-    "title": "Rental Family"
+    "title": "People We Meet on Vacation"
   },
   {
-    "title": "Sandokan"
+    "title": "Industry"
+  },
+  {
+    "title": "O Agente Secreto"
+  },
+  {
+    "title": "Finding Her Edge"
+  },
+  {
+    "title": "The Running Man"
+  },
+  {
+    "title": "High Potential"
+  },
+  {
+    "title": "Border 2"
+  },
+  {
+    "title": "Run Away"
   },
   {
     "title": "Nuremberg"
+  },
+  {
+    "title": "The Last of Us"
+  },
+  {
+    "title": "F1"
+  },
+  {
+    "title": "House of the Dragon"
+  },
+  {
+    "title": "Weapons"
+  },
+  {
+    "title": "The White Lotus"
+  },
+  {
+    "title": "Springsteen: Deliver Me from Nowhere"
+  },
+  {
+    "title": "The Beast in Me"
+  },
+  {
+    "title": "Best in Show"
+  },
+  {
+    "title": "Better Call Saul"
+  },
+  {
+    "title": "28 Years Later"
+  },
+  {
+    "title": "Shingeki no kyojin"
+  },
+  {
+    "title": "Dracula: A Love Tale"
+  },
+  {
+    "title": "The Pendragon Cycle: Rise of the Merlin"
+  },
+  {
+    "title": "Greenland"
+  },
+  {
+    "title": "The Sopranos"
+  },
+  {
+    "title": "The Smashing Machine"
   },
   {
     "title": "22.63"
@@ -165,138 +249,54 @@
     "title": "Il falsario"
   },
   {
-    "title": "Industry"
-  },
-  {
-    "title": "The Smashing Machine"
-  },
-  {
-    "title": "The Pendragon Cycle: Rise of the Merlin"
-  },
-  {
-    "title": "Wuthering Heights"
-  },
-  {
-    "title": "High Potential"
-  },
-  {
-    "title": "Eojjeolsuga eobsda"
-  },
-  {
-    "title": "The Beast in Me"
-  },
-  {
-    "title": "Zootopia 2"
-  },
-  {
-    "title": "Euphoria"
-  },
-  {
-    "title": "Song Sung Blue"
-  },
-  {
-    "title": "House of the Dragon"
-  },
-  {
-    "title": "Primate"
-  },
-  {
     "title": "Spartacus: House of Ashur"
   },
   {
-    "title": "Good Boy"
-  },
-  {
-    "title": "All Her Fault"
-  },
-  {
-    "title": "Dhurandhar"
-  },
-  {
-    "title": "Yellowstone"
-  },
-  {
-    "title": "Predator: Badlands"
-  },
-  {
-    "title": "Shingeki no kyojin"
-  },
-  {
-    "title": "Greenland 2: Migration"
-  },
-  {
-    "title": "Better Call Saul"
-  },
-  {
-    "title": "The Bride!"
-  },
-  {
-    "title": "The White Lotus"
-  },
-  {
-    "title": "Dust Bunny"
-  },
-  {
-    "title": "The Sopranos"
-  },
-  {
-    "title": "If I Had Legs I&apos;d Kick You"
-  },
-  {
-    "title": "True Detective"
-  },
-  {
-    "title": "Die My Love"
-  },
-  {
-    "title": "IT: Welcome to Derry"
-  },
-  {
-    "title": "The Shawshank Redemption"
+    "title": "Rental Family"
   },
   {
     "title": "The Walking Dead"
   },
   {
-    "title": "The Odyssey"
+    "title": "Masters of the Universe"
   },
   {
-    "title": "Dark"
+    "title": "Yellowstone"
   },
   {
-    "title": "Roofman"
+    "title": "Primate"
   },
   {
-    "title": "The Boys"
+    "title": "True Detective"
   },
   {
-    "title": "The Lord of the Rings: The Fellowship of the Ring"
+    "title": "Eojjeolsuga eobsda"
   },
   {
-    "title": "Fargo"
+    "title": "Sandokan"
   },
   {
-    "title": "Tron: Ares"
+    "title": "Song Sung Blue"
   },
   {
     "title": "Homeland"
   },
   {
-    "title": "No Time to Die"
+    "title": "Roofman"
   },
   {
-    "title": "Grey&apos;s Anatomy"
+    "title": "Euphoria"
   },
   {
-    "title": "I Want Your Sex"
+    "title": "Die My Love"
   },
   {
-    "title": "Black Mirror"
+    "title": "The Boys"
   },
   {
-    "title": "28 Days Later"
+    "title": "The Shawshank Redemption"
   },
   {
-    "title": "Dexter"
+    "title": "Paradise"
   }
 ]
