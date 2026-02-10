@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-02-09T06:40:19.912705",
+  "last_updated": "2026-02-10T06:40:52.706860",
   "total_items": 100,
   "items": [
     {
       "title": "The Housemaid",
       "type": "movie",
-      "average_rating": 6.9
+      "average_rating": 6.8
     },
     {
       "title": "A Knight of the Seven Kingdoms",
       "type": "series",
-      "average_rating": 8.6
+      "average_rating": 8.7
     },
     {
       "title": "Melania",
@@ -70,7 +70,7 @@
     {
       "title": "Wonder Man",
       "type": "series",
-      "average_rating": 7.6
+      "average_rating": 7.5
     },
     {
       "title": "The Rip",
@@ -100,7 +100,7 @@
     {
       "title": "Unfamiliar",
       "type": "series",
-      "average_rating": 6.8
+      "average_rating": 6.9
     },
     {
       "title": "Sinners",
@@ -225,7 +225,7 @@
     {
       "title": "Solo Mio",
       "type": "movie",
-      "average_rating": 7.7
+      "average_rating": 7.6
     },
     {
       "title": "The Rookie",
@@ -260,7 +260,7 @@
     {
       "title": "Under Salt Marsh",
       "type": "series",
-      "average_rating": 6.4
+      "average_rating": 6.5
     },
     {
       "title": "Affeksjonsverdi",
@@ -350,7 +350,7 @@
     {
       "title": "The &apos;Burbs",
       "type": "series",
-      "average_rating": 5.5
+      "average_rating": 5.7
     },
     {
       "title": "GOAT",
@@ -365,7 +365,7 @@
     {
       "title": "The Plague",
       "type": "movie",
-      "average_rating": 6.7
+      "average_rating": 6.6
     },
     {
       "title": "Better Call Saul",
@@ -455,7 +455,7 @@
     {
       "title": "Redux Redux",
       "type": "movie",
-      "average_rating": 6.6
+      "average_rating": 6.5
     },
     {
       "title": "Dexter",
