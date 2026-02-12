@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T06:39:35.850794",
+  "last_updated": "2026-02-12T06:38:51.394981",
   "total_items": 100,
   "items": [
     {
@@ -65,7 +65,7 @@
     {
       "title": "Wuthering Heights",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 6.2
     },
     {
       "title": "Wonder Man",
@@ -285,7 +285,7 @@
     {
       "title": "We Bury the Dead",
       "type": "movie",
-      "average_rating": 5.7
+      "average_rating": 5.6
     },
     {
       "title": "Agatha Christie&apos;s Seven Dials",
@@ -350,12 +350,12 @@
     {
       "title": "The &apos;Burbs",
       "type": "series",
-      "average_rating": 5.8
+      "average_rating": 5.9
     },
     {
       "title": "GOAT",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 7.0
     },
     {
       "title": "Animal Kingdom",
@@ -455,7 +455,7 @@
     {
       "title": "Redux Redux",
       "type": "movie",
-      "average_rating": 6.5
+      "average_rating": 6.4
     },
     {
       "title": "Dexter",
