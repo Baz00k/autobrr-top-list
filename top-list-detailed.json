@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T06:38:51.394981",
+  "last_updated": "2026-02-13T06:36:58.887535",
   "total_items": 100,
   "items": [
     {
@@ -15,7 +15,7 @@
     {
       "title": "Melania",
       "type": "movie",
-      "average_rating": 1.3
+      "average_rating": 1.4
     },
     {
       "title": "The Lincoln Lawyer",
@@ -25,7 +25,7 @@
     {
       "title": "Iron Lung",
       "type": "movie",
-      "average_rating": 6.6
+      "average_rating": 6.5
     },
     {
       "title": "Fallout",
@@ -85,7 +85,7 @@
     {
       "title": "Marty Supreme",
       "type": "movie",
-      "average_rating": 8.1
+      "average_rating": 8.0
     },
     {
       "title": "Game of Thrones",
@@ -190,12 +190,12 @@
     {
       "title": "Memory of a Killer",
       "type": "series",
-      "average_rating": 7.0
+      "average_rating": 6.9
     },
     {
       "title": "Anaconda",
       "type": "movie",
-      "average_rating": 5.7
+      "average_rating": 5.6
     },
     {
       "title": "Jujutsu Kaisen",
@@ -313,9 +313,9 @@
       "average_rating": 6.1
     },
     {
-      "title": "The Muppet Show",
+      "title": "The Devil Wears Prada 2",
       "type": "movie",
-      "average_rating": 8.3
+      "average_rating": null
     },
     {
       "title": "Schitt$ Creek",
@@ -323,7 +323,7 @@
       "average_rating": 8.5
     },
     {
-      "title": "The Devil Wears Prada 2",
+      "title": "War Machine",
       "type": "movie",
       "average_rating": null
     },
@@ -333,7 +333,7 @@
       "average_rating": 7.1
     },
     {
-      "title": "War Machine",
+      "title": "The Odyssey",
       "type": "movie",
       "average_rating": null
     },
@@ -343,24 +343,14 @@
       "average_rating": 8.0
     },
     {
-      "title": "The Odyssey",
+      "title": "GOAT",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 6.7
     },
     {
       "title": "The &apos;Burbs",
       "type": "series",
-      "average_rating": 5.9
-    },
-    {
-      "title": "GOAT",
-      "type": "movie",
-      "average_rating": 7.0
-    },
-    {
-      "title": "Animal Kingdom",
-      "type": "series",
-      "average_rating": 8.2
+      "average_rating": 6.0
     },
     {
       "title": "The Plague",
@@ -368,9 +358,9 @@
       "average_rating": 6.6
     },
     {
-      "title": "Better Call Saul",
+      "title": "Animal Kingdom",
       "type": "series",
-      "average_rating": 9.0
+      "average_rating": 8.2
     },
     {
       "title": "The Running Man",
@@ -378,9 +368,9 @@
       "average_rating": 6.4
     },
     {
-      "title": "True Detective",
+      "title": "Better Call Saul",
       "type": "series",
-      "average_rating": 8.8
+      "average_rating": 9.0
     },
     {
       "title": "F1",
@@ -388,9 +378,9 @@
       "average_rating": 7.6
     },
     {
-      "title": "The Boys",
+      "title": "True Detective",
       "type": "series",
-      "average_rating": 8.6
+      "average_rating": 8.8
     },
     {
       "title": "Weapons",
@@ -398,9 +388,9 @@
       "average_rating": 7.4
     },
     {
-      "title": "The Sopranos",
+      "title": "The Boys",
       "type": "series",
-      "average_rating": 9.2
+      "average_rating": 8.6
     },
     {
       "title": "Whistle",
@@ -408,9 +398,9 @@
       "average_rating": 5.8
     },
     {
-      "title": "Shingeki no kyojin",
+      "title": "The Sopranos",
       "type": "series",
-      "average_rating": 9.1
+      "average_rating": 9.2
     },
     {
       "title": "Ella McCay",
@@ -418,9 +408,9 @@
       "average_rating": 5.1
     },
     {
-      "title": "The Walking Dead",
+      "title": "Shingeki no kyojin",
       "type": "series",
-      "average_rating": 8.1
+      "average_rating": 9.1
     },
     {
       "title": "Scream 7",
@@ -428,9 +418,9 @@
       "average_rating": null
     },
     {
-      "title": "From",
+      "title": "The Walking Dead",
       "type": "series",
-      "average_rating": 7.8
+      "average_rating": 8.1
     },
     {
       "title": "Best in Show",
@@ -438,9 +428,9 @@
       "average_rating": 7.5
     },
     {
-      "title": "Yellowstone",
+      "title": "From",
       "type": "series",
-      "average_rating": 8.6
+      "average_rating": 7.8
     },
     {
       "title": "Return to Silent Hill",
@@ -448,9 +438,9 @@
       "average_rating": 4.1
     },
     {
-      "title": "Grey&apos;s Anatomy",
+      "title": "Yellowstone",
       "type": "series",
-      "average_rating": 7.6
+      "average_rating": 8.6
     },
     {
       "title": "Redux Redux",
@@ -458,9 +448,9 @@
       "average_rating": 6.4
     },
     {
-      "title": "Dexter",
+      "title": "Grey&apos;s Anatomy",
       "type": "series",
-      "average_rating": 8.6
+      "average_rating": 7.6
     },
     {
       "title": "Eojjeolsuga eobsda",
@@ -468,9 +458,9 @@
       "average_rating": 7.6
     },
     {
-      "title": "Supernatural",
+      "title": "Dexter",
       "type": "series",
-      "average_rating": 8.4
+      "average_rating": 8.6
     },
     {
       "title": "The Bride!",
@@ -478,9 +468,9 @@
       "average_rating": null
     },
     {
-      "title": "The Beast in Me",
+      "title": "Supernatural",
       "type": "series",
-      "average_rating": 7.4
+      "average_rating": 8.4
     },
     {
       "title": "Eyes Wide Shut",
@@ -488,14 +478,24 @@
       "average_rating": 7.5
     },
     {
-      "title": "Dark",
+      "title": "The Beast in Me",
       "type": "series",
-      "average_rating": 8.7
+      "average_rating": 7.4
     },
     {
       "title": "Predator: Badlands",
       "type": "movie",
       "average_rating": 7.3
+    },
+    {
+      "title": "Dark",
+      "type": "series",
+      "average_rating": 8.7
+    },
+    {
+      "title": "The Monster",
+      "type": "movie",
+      "average_rating": 4.7
     },
     {
       "title": "The Office",
