@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T06:36:58.887535",
+  "last_updated": "2026-02-14T06:27:43.207664",
   "total_items": 100,
   "items": [
     {
@@ -65,7 +65,7 @@
     {
       "title": "Wuthering Heights",
       "type": "movie",
-      "average_rating": 6.2
+      "average_rating": 6.3
     },
     {
       "title": "Wonder Man",
@@ -225,7 +225,7 @@
     {
       "title": "Solo Mio",
       "type": "movie",
-      "average_rating": 7.6
+      "average_rating": 7.5
     },
     {
       "title": "The Rookie",
@@ -345,7 +345,7 @@
     {
       "title": "GOAT",
       "type": "movie",
-      "average_rating": 6.7
+      "average_rating": 6.9
     },
     {
       "title": "The &apos;Burbs",
@@ -355,7 +355,7 @@
     {
       "title": "The Plague",
       "type": "movie",
-      "average_rating": 6.6
+      "average_rating": 6.5
     },
     {
       "title": "Animal Kingdom",
@@ -395,7 +395,7 @@
     {
       "title": "Whistle",
       "type": "movie",
-      "average_rating": 5.8
+      "average_rating": 5.7
     },
     {
       "title": "The Sopranos",
