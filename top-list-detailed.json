@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T06:27:43.207664",
+  "last_updated": "2026-02-15T06:32:18.613099",
   "total_items": 100,
   "items": [
     {
@@ -45,7 +45,7 @@
     {
       "title": "The Wrecking Crew",
       "type": "movie",
-      "average_rating": 6.5
+      "average_rating": 6.4
     },
     {
       "title": "Bridgerton",
@@ -65,7 +65,7 @@
     {
       "title": "Wuthering Heights",
       "type": "movie",
-      "average_rating": 6.3
+      "average_rating": 6.4
     },
     {
       "title": "Wonder Man",
@@ -175,7 +175,7 @@
     {
       "title": "Zootopia 2",
       "type": "movie",
-      "average_rating": 7.5
+      "average_rating": 7.4
     },
     {
       "title": "Steal",
@@ -185,7 +185,7 @@
     {
       "title": "Frankenstein",
       "type": "movie",
-      "average_rating": 7.5
+      "average_rating": 7.4
     },
     {
       "title": "Memory of a Killer",
@@ -225,7 +225,7 @@
     {
       "title": "Solo Mio",
       "type": "movie",
-      "average_rating": 7.5
+      "average_rating": 7.6
     },
     {
       "title": "The Rookie",
@@ -325,7 +325,7 @@
     {
       "title": "War Machine",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 8.0
     },
     {
       "title": "Tell Me Lies",
@@ -345,12 +345,12 @@
     {
       "title": "GOAT",
       "type": "movie",
-      "average_rating": 6.9
+      "average_rating": 7.0
     },
     {
       "title": "The &apos;Burbs",
       "type": "series",
-      "average_rating": 6.0
+      "average_rating": 6.1
     },
     {
       "title": "The Plague",
@@ -495,7 +495,7 @@
     {
       "title": "The Monster",
       "type": "movie",
-      "average_rating": 4.7
+      "average_rating": 4.6
     },
     {
       "title": "The Office",
