@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-02-16T06:39:35.341970",
+  "last_updated": "2026-02-17T06:35:38.541616",
   "total_items": 100,
   "items": [
     {
       "title": "Wuthering Heights",
       "type": "movie",
-      "average_rating": 6.4
+      "average_rating": 6.3
     },
     {
       "title": "A Knight of the Seven Kingdoms",
       "type": "series",
-      "average_rating": 8.8
+      "average_rating": 8.9
     },
     {
       "title": "The Housemaid",
@@ -50,7 +50,7 @@
     {
       "title": "How to Get to Heaven from Belfast",
       "type": "series",
-      "average_rating": 7.3
+      "average_rating": 7.4
     },
     {
       "title": "Send Help",
@@ -65,7 +65,7 @@
     {
       "title": "Hamnet",
       "type": "movie",
-      "average_rating": 8.0
+      "average_rating": 7.9
     },
     {
       "title": "The &apos;Burbs",
@@ -75,7 +75,7 @@
     {
       "title": "GOAT",
       "type": "movie",
-      "average_rating": 7.0
+      "average_rating": 6.9
     },
     {
       "title": "Unfamiliar",
@@ -85,7 +85,7 @@
     {
       "title": "O&apos; Romeo",
       "type": "movie",
-      "average_rating": 6.6
+      "average_rating": 6.5
     },
     {
       "title": "Game of Thrones",
