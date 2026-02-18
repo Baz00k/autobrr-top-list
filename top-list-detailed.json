@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T06:35:38.541616",
+  "last_updated": "2026-02-18T06:38:39.509802",
   "total_items": 100,
   "items": [
     {
@@ -25,7 +25,7 @@
     {
       "title": "Marty Supreme",
       "type": "movie",
-      "average_rating": 8.0
+      "average_rating": 7.9
     },
     {
       "title": "The Pitt",
@@ -70,12 +70,12 @@
     {
       "title": "The &apos;Burbs",
       "type": "series",
-      "average_rating": 6.2
+      "average_rating": 6.3
     },
     {
       "title": "GOAT",
       "type": "movie",
-      "average_rating": 6.9
+      "average_rating": 7.0
     },
     {
       "title": "Unfamiliar",
@@ -85,7 +85,7 @@
     {
       "title": "O&apos; Romeo",
       "type": "movie",
-      "average_rating": 6.5
+      "average_rating": 6.4
     },
     {
       "title": "Game of Thrones",
@@ -285,7 +285,7 @@
     {
       "title": "Shelter",
       "type": "movie",
-      "average_rating": 6.5
+      "average_rating": 6.4
     },
     {
       "title": "Hijack",
@@ -315,12 +315,12 @@
     {
       "title": "O Agente Secreto",
       "type": "movie",
-      "average_rating": 7.4
+      "average_rating": 7.3
     },
     {
       "title": "High Potential",
       "type": "series",
-      "average_rating": 7.6
+      "average_rating": 7.5
     },
     {
       "title": "Affeksjonsverdi",
@@ -330,7 +330,7 @@
     {
       "title": "Lord of the Flies",
       "type": "series",
-      "average_rating": 6.5
+      "average_rating": 6.6
     },
     {
       "title": "Wake Up Dead Man",
@@ -400,7 +400,7 @@
     {
       "title": "The Pendragon Cycle: Rise of the Merlin",
       "type": "series",
-      "average_rating": 6.1
+      "average_rating": 6.2
     },
     {
       "title": "Anaconda",
@@ -445,7 +445,7 @@
     {
       "title": "If I Had Legs I&apos;d Kick You",
       "type": "movie",
-      "average_rating": 6.7
+      "average_rating": 6.6
     },
     {
       "title": "Ponies",
