@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T06:37:32.773633",
+  "last_updated": "2026-02-20T06:33:56.600641",
   "total_items": 100,
   "items": [
     {
@@ -10,7 +10,7 @@
     {
       "title": "A Knight of the Seven Kingdoms",
       "type": "series",
-      "average_rating": 8.9
+      "average_rating": 9.0
     },
     {
       "title": "The Housemaid",
@@ -45,7 +45,7 @@
     {
       "title": "Predator: Badlands",
       "type": "movie",
-      "average_rating": 7.3
+      "average_rating": 7.2
     },
     {
       "title": "How to Get to Heaven from Belfast",
@@ -370,7 +370,7 @@
     {
       "title": "Under Salt Marsh",
       "type": "series",
-      "average_rating": 6.3
+      "average_rating": 6.4
     },
     {
       "title": "Project Hail Mary",
