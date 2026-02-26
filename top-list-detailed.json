@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-25T06:39:27.096517",
+  "last_updated": "2026-02-26T06:36:06.994701",
   "total_items": 100,
   "items": [
     {
@@ -325,7 +325,7 @@
     {
       "title": "Scream 7",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 6.5
     },
     {
       "title": "Hijack",
@@ -405,7 +405,7 @@
     {
       "title": "O&apos; Romeo",
       "type": "movie",
-      "average_rating": 6.4
+      "average_rating": 6.3
     },
     {
       "title": "Dexter",
