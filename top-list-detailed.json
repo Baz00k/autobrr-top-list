@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-03-04T06:29:25.614055",
+  "last_updated": "2026-03-05T06:31:52.431961",
   "total_items": 100,
   "items": [
     {
       "title": "Scream 7",
       "type": "movie",
-      "average_rating": 6.0
+      "average_rating": 5.9
     },
     {
       "title": "A Knight of the Seven Kingdoms",
@@ -120,7 +120,7 @@
     {
       "title": "Heated Rivalry",
       "type": "series",
-      "average_rating": 8.9
+      "average_rating": 8.8
     },
     {
       "title": "GOAT",
@@ -135,7 +135,7 @@
     {
       "title": "The Bride!",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 6.4
     },
     {
       "title": "The Lincoln Lawyer",
@@ -253,7 +253,7 @@
       "average_rating": 8.2
     },
     {
-      "title": "Scary Movie 6",
+      "title": "Scary Movie",
       "type": "movie",
       "average_rating": null
     },
@@ -320,7 +320,7 @@
     {
       "title": "Marshals",
       "type": "series",
-      "average_rating": 6.7
+      "average_rating": 6.6
     },
     {
       "title": "How to Make a Killing",
@@ -350,7 +350,7 @@
     {
       "title": "DTF St. Louis",
       "type": "series",
-      "average_rating": 6.8
+      "average_rating": 6.7
     },
     {
       "title": "One Mile: Chapter One",
