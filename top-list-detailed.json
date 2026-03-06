@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T06:31:52.431961",
+  "last_updated": "2026-03-06T06:30:05.046740",
   "total_items": 100,
   "items": [
     {
@@ -135,7 +135,7 @@
     {
       "title": "The Bride!",
       "type": "movie",
-      "average_rating": 6.4
+      "average_rating": 6.1
     },
     {
       "title": "The Lincoln Lawyer",
@@ -210,7 +210,7 @@
     {
       "title": "The Beauty",
       "type": "series",
-      "average_rating": 6.4
+      "average_rating": 6.5
     },
     {
       "title": "I Swear",
@@ -315,12 +315,12 @@
     {
       "title": "Accused",
       "type": "movie",
-      "average_rating": 4.4
+      "average_rating": 4.5
     },
     {
       "title": "Marshals",
       "type": "series",
-      "average_rating": 6.6
+      "average_rating": 6.5
     },
     {
       "title": "How to Make a Killing",
@@ -440,7 +440,7 @@
     {
       "title": "The Gray House",
       "type": "series",
-      "average_rating": 6.5
+      "average_rating": 6.6
     },
     {
       "title": "Father Mother Sister Brother",
