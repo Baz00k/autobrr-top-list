@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T06:26:14.644451",
+  "last_updated": "2026-03-08T06:26:57.562697",
   "total_items": 100,
   "items": [
     {
@@ -65,7 +65,7 @@
     {
       "title": "In the Blink of an Eye",
       "type": "movie",
-      "average_rating": 6.0
+      "average_rating": 6.1
     },
     {
       "title": "Game of Thrones",
@@ -80,7 +80,7 @@
     {
       "title": "Love Story",
       "type": "series",
-      "average_rating": 7.7
+      "average_rating": 7.6
     },
     {
       "title": "Jurassic World: Rebirth",
@@ -320,7 +320,7 @@
     {
       "title": "Marshals",
       "type": "series",
-      "average_rating": 6.5
+      "average_rating": 6.4
     },
     {
       "title": "How to Make a Killing",
