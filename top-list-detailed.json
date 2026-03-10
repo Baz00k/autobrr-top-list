@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-03-09T06:37:34.111703",
+  "last_updated": "2026-03-10T06:30:34.853323",
   "total_items": 100,
   "items": [
     {
       "title": "War Machine",
       "type": "movie",
-      "average_rating": 6.5
+      "average_rating": 6.4
     },
     {
       "title": "Young Sherlock",
@@ -15,7 +15,7 @@
     {
       "title": "The Bride!",
       "type": "movie",
-      "average_rating": 6.1
+      "average_rating": 6.0
     },
     {
       "title": "A Knight of the Seven Kingdoms",
@@ -40,7 +40,7 @@
     {
       "title": "Paradise",
       "type": "series",
-      "average_rating": 7.8
+      "average_rating": 7.9
     },
     {
       "title": "Hamnet",
@@ -85,7 +85,7 @@
     {
       "title": "Peaky Blinders: The Immortal Man",
       "type": "movie",
-      "average_rating": 7.9
+      "average_rating": 7.8
     },
     {
       "title": "Breaking Bad",
@@ -100,12 +100,12 @@
     {
       "title": "Marshals",
       "type": "series",
-      "average_rating": 6.4
+      "average_rating": 6.3
     },
     {
       "title": "Cold Storage",
       "type": "movie",
-      "average_rating": 6.2
+      "average_rating": 6.1
     },
     {
       "title": "Game of Thrones",
@@ -130,7 +130,7 @@
     {
       "title": "DTF St. Louis",
       "type": "series",
-      "average_rating": 6.7
+      "average_rating": 6.8
     },
     {
       "title": "Nuremberg",
@@ -205,7 +205,7 @@
     {
       "title": "In the Blink of an Eye",
       "type": "movie",
-      "average_rating": 6.0
+      "average_rating": 6.1
     },
     {
       "title": "Outlander",
@@ -310,7 +310,7 @@
     {
       "title": "The Dinosaurs",
       "type": "series",
-      "average_rating": 7.7
+      "average_rating": 7.6
     },
     {
       "title": "F1",
@@ -350,7 +350,7 @@
     {
       "title": "RJ Decker",
       "type": "series",
-      "average_rating": 7.1
+      "average_rating": 7.0
     },
     {
       "title": "The Rip",
@@ -410,7 +410,7 @@
     {
       "title": "Rooster",
       "type": "series",
-      "average_rating": 8.3
+      "average_rating": 7.2
     },
     {
       "title": "Song Sung Blue",
