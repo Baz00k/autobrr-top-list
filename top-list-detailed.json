@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:30:34.853323",
+  "last_updated": "2026-03-11T06:32:12.696473",
   "total_items": 100,
   "items": [
     {
@@ -15,7 +15,7 @@
     {
       "title": "The Bride!",
       "type": "movie",
-      "average_rating": 6.0
+      "average_rating": 5.9
     },
     {
       "title": "A Knight of the Seven Kingdoms",
@@ -213,7 +213,7 @@
       "average_rating": 8.3
     },
     {
-      "title": "GOAT",
+      "title": "Goat",
       "type": "movie",
       "average_rating": 6.9
     },
@@ -310,7 +310,7 @@
     {
       "title": "The Dinosaurs",
       "type": "series",
-      "average_rating": 7.6
+      "average_rating": 7.7
     },
     {
       "title": "F1",
@@ -350,7 +350,7 @@
     {
       "title": "RJ Decker",
       "type": "series",
-      "average_rating": 7.0
+      "average_rating": 6.9
     },
     {
       "title": "The Rip",
