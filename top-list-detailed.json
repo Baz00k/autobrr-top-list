@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T06:32:24.255422",
+  "last_updated": "2026-03-14T06:28:57.135658",
   "total_items": 100,
   "items": [
     {
@@ -35,7 +35,7 @@
     {
       "title": "Scream 7",
       "type": "movie",
-      "average_rating": 5.9
+      "average_rating": 5.8
     },
     {
       "title": "Paradise",
@@ -60,7 +60,7 @@
     {
       "title": "Vladimir",
       "type": "series",
-      "average_rating": 6.0
+      "average_rating": 6.1
     },
     {
       "title": "Marty Supreme",
@@ -70,7 +70,7 @@
     {
       "title": "Love Story",
       "type": "series",
-      "average_rating": 7.6
+      "average_rating": 7.5
     },
     {
       "title": "The Bluff",
@@ -85,7 +85,7 @@
     {
       "title": "Peaky Blinders: The Immortal Man",
       "type": "movie",
-      "average_rating": 7.8
+      "average_rating": 7.7
     },
     {
       "title": "Breaking Bad",
@@ -320,7 +320,7 @@
     {
       "title": "Hijack",
       "type": "series",
-      "average_rating": 7.4
+      "average_rating": 7.3
     },
     {
       "title": "Predator: Badlands",
@@ -395,7 +395,7 @@
     {
       "title": "Good Luck, Have Fun, Don&apos;t Die",
       "type": "movie",
-      "average_rating": 7.3
+      "average_rating": 7.2
     },
     {
       "title": "Shingeki no kyojin",
@@ -455,7 +455,7 @@
     {
       "title": "Ready or Not 2: Here I Come",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 7.9
     },
     {
       "title": "Reacher",
