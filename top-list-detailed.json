@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T06:28:57.135658",
+  "last_updated": "2026-03-15T06:36:07.368629",
   "total_items": 100,
   "items": [
     {
@@ -55,7 +55,7 @@
     {
       "title": "Wuthering Heights",
       "type": "movie",
-      "average_rating": 6.3
+      "average_rating": 6.2
     },
     {
       "title": "Vladimir",
@@ -350,7 +350,7 @@
     {
       "title": "RJ Decker",
       "type": "series",
-      "average_rating": 6.9
+      "average_rating": 7.0
     },
     {
       "title": "The Rip",
@@ -415,12 +415,12 @@
     {
       "title": "Song Sung Blue",
       "type": "movie",
-      "average_rating": 7.3
+      "average_rating": 7.2
     },
     {
       "title": "Star Trek: Starfleet Academy",
       "type": "series",
-      "average_rating": 4.3
+      "average_rating": 4.4
     },
     {
       "title": "Scary Movie",
@@ -455,7 +455,7 @@
     {
       "title": "Ready or Not 2: Here I Come",
       "type": "movie",
-      "average_rating": 7.9
+      "average_rating": 8.3
     },
     {
       "title": "Reacher",
