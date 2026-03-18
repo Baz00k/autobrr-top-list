@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T06:39:37.921980",
+  "last_updated": "2026-03-18T06:39:17.093184",
   "total_items": 100,
   "items": [
     {
@@ -25,7 +25,7 @@
     {
       "title": "Project Hail Mary",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 8.7
     },
     {
       "title": "The Madison",
@@ -35,7 +35,7 @@
     {
       "title": "Hoppers",
       "type": "movie",
-      "average_rating": 7.7
+      "average_rating": 7.6
     },
     {
       "title": "The Pitt",
@@ -75,12 +75,12 @@
     {
       "title": "The Bride!",
       "type": "movie",
-      "average_rating": 5.8
+      "average_rating": 5.9
     },
     {
       "title": "Rooster",
       "type": "series",
-      "average_rating": 7.2
+      "average_rating": 7.3
     },
     {
       "title": "One Battle After Another",
@@ -225,7 +225,7 @@
     {
       "title": "The Undertone",
       "type": "movie",
-      "average_rating": 6.4
+      "average_rating": 6.3
     },
     {
       "title": "Jujutsu Kaisen",
@@ -255,7 +255,7 @@
     {
       "title": "Ready or Not 2: Here I Come",
       "type": "movie",
-      "average_rating": 7.8
+      "average_rating": 7.1
     },
     {
       "title": "Something Very Bad Is Going to Happen",
@@ -275,7 +275,7 @@
     {
       "title": "Louis Theroux: Inside the Manosphere",
       "type": "movie",
-      "average_rating": 7.1
+      "average_rating": 7.0
     },
     {
       "title": "The Boys",
@@ -300,7 +300,7 @@
     {
       "title": "The Beauty",
       "type": "series",
-      "average_rating": 6.5
+      "average_rating": 6.6
     },
     {
       "title": "The Bluff",
@@ -405,7 +405,7 @@
     {
       "title": "Obsession",
       "type": "movie",
-      "average_rating": 7.3
+      "average_rating": 7.2
     },
     {
       "title": "The Man in the High Castle",
