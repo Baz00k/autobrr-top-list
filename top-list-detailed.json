@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T06:39:17.093184",
+  "last_updated": "2026-03-19T06:36:30.806103",
   "total_items": 100,
   "items": [
     {
@@ -25,7 +25,7 @@
     {
       "title": "Project Hail Mary",
       "type": "movie",
-      "average_rating": 8.7
+      "average_rating": 8.6
     },
     {
       "title": "The Madison",
@@ -45,7 +45,7 @@
     {
       "title": "Good Luck, Have Fun, Don&apos;t Die",
       "type": "movie",
-      "average_rating": 7.2
+      "average_rating": 7.1
     },
     {
       "title": "Young Sherlock",
@@ -255,7 +255,7 @@
     {
       "title": "Ready or Not 2: Here I Come",
       "type": "movie",
-      "average_rating": 7.1
+      "average_rating": 6.8
     },
     {
       "title": "Something Very Bad Is Going to Happen",
