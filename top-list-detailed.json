@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T08:00:28.578670",
+  "last_updated": "2026-06-12T07:56:12.088483",
   "total_items": 100,
   "items": [
     {
@@ -35,7 +35,7 @@
     {
       "title": "Scary Movie",
       "type": "movie",
-      "average_rating": 5.5
+      "average_rating": 5.4
     },
     {
       "title": "The Boroughs",
@@ -75,7 +75,7 @@
     {
       "title": "Disclosure Day",
       "type": "movie",
-      "average_rating": 7.0
+      "average_rating": 6.9
     },
     {
       "title": "The Boys",
@@ -170,7 +170,7 @@
     {
       "title": "Among Us",
       "type": "series",
-      "average_rating": 7.3
+      "average_rating": 7.2
     },
     {
       "title": "The Sheep Detectives",
@@ -215,7 +215,7 @@
     {
       "title": "Hai Jawani Toh Ishq Hona Hai",
       "type": "movie",
-      "average_rating": 6.2
+      "average_rating": 6.1
     },
     {
       "title": "House of the Dragon",
@@ -485,7 +485,7 @@
     {
       "title": "Is God Is",
       "type": "movie",
-      "average_rating": 6.8
+      "average_rating": 6.7
     },
     {
       "title": "The Mentalist",
