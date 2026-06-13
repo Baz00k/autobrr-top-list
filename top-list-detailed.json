@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T07:56:12.088483",
+  "last_updated": "2026-06-13T07:34:35.570820",
   "total_items": 100,
   "items": [
     {
@@ -30,7 +30,7 @@
     {
       "title": "Cape Fear",
       "type": "series",
-      "average_rating": 7.2
+      "average_rating": 7.1
     },
     {
       "title": "Scary Movie",
@@ -105,7 +105,7 @@
     {
       "title": "Hokum",
       "type": "movie",
-      "average_rating": 6.9
+      "average_rating": 6.8
     },
     {
       "title": "Your Friends &amp; Neighbors",
@@ -200,12 +200,12 @@
     {
       "title": "Chamgyoyuk",
       "type": "series",
-      "average_rating": 8.7
+      "average_rating": 8.6
     },
     {
       "title": "Iron Lung",
       "type": "movie",
-      "average_rating": 6.0
+      "average_rating": 5.9
     },
     {
       "title": "Breaking Bad",
@@ -215,7 +215,7 @@
     {
       "title": "Hai Jawani Toh Ishq Hona Hai",
       "type": "movie",
-      "average_rating": 6.1
+      "average_rating": 6.0
     },
     {
       "title": "House of the Dragon",
@@ -225,7 +225,7 @@
     {
       "title": "Mortal Kombat II",
       "type": "movie",
-      "average_rating": 6.6
+      "average_rating": 6.5
     },
     {
       "title": "Rick and Morty",
@@ -325,7 +325,7 @@
     {
       "title": "Over Your Dead Body",
       "type": "movie",
-      "average_rating": 6.4
+      "average_rating": 6.3
     },
     {
       "title": "Supernatural",
@@ -480,7 +480,7 @@
     {
       "title": "Tip Toe",
       "type": "series",
-      "average_rating": 8.2
+      "average_rating": 8.3
     },
     {
       "title": "Is God Is",
