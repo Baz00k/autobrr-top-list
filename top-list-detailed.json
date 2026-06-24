@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T07:32:17.181851",
+  "last_updated": "2026-06-24T07:28:22.668487",
   "total_items": 100,
   "items": [
     {
@@ -25,7 +25,7 @@
     {
       "title": "Toy Story 5",
       "type": "movie",
-      "average_rating": 7.7
+      "average_rating": 7.6
     },
     {
       "title": "Off Campus",
@@ -90,7 +90,7 @@
     {
       "title": "Spider-Noir",
       "type": "series",
-      "average_rating": 7.9
+      "average_rating": 7.8
     },
     {
       "title": "Scary Movie",
@@ -180,12 +180,12 @@
     {
       "title": "Oasis",
       "type": "series",
-      "average_rating": 5.2
+      "average_rating": 5.4
     },
     {
       "title": "Your Fault: London",
       "type": "movie",
-      "average_rating": 6.2
+      "average_rating": 6.1
     },
     {
       "title": "Raakh",
@@ -220,7 +220,7 @@
     {
       "title": "The Polygamist",
       "type": "series",
-      "average_rating": 5.8
+      "average_rating": 5.9
     },
     {
       "title": "Office Romance",
@@ -295,7 +295,7 @@
     {
       "title": "Cocktail 2",
       "type": "movie",
-      "average_rating": 8.4
+      "average_rating": 8.3
     },
     {
       "title": "Criminal Minds",
@@ -305,12 +305,12 @@
     {
       "title": "Citizen Vigilante",
       "type": "movie",
-      "average_rating": 5.6
+      "average_rating": 5.8
     },
     {
       "title": "Not Suitable for Work",
       "type": "series",
-      "average_rating": 6.7
+      "average_rating": 6.8
     },
     {
       "title": "Hokum",
@@ -485,7 +485,7 @@
     {
       "title": "Girls Like Girls",
       "type": "movie",
-      "average_rating": 7.0
+      "average_rating": 6.9
     },
     {
       "title": "A Knight of the Seven Kingdoms",
