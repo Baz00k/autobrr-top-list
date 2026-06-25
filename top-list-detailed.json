@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T07:28:22.668487",
+  "last_updated": "2026-06-25T07:29:17.297958",
   "total_items": 100,
   "items": [
     {
@@ -135,7 +135,7 @@
     {
       "title": "Supergirl",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 6.1
     },
     {
       "title": "The Boys",
@@ -145,7 +145,7 @@
     {
       "title": "Leviticus",
       "type": "movie",
-      "average_rating": 6.7
+      "average_rating": 6.8
     },
     {
       "title": "Sugar",
@@ -180,7 +180,7 @@
     {
       "title": "Oasis",
       "type": "series",
-      "average_rating": 5.4
+      "average_rating": 5.3
     },
     {
       "title": "Your Fault: London",
@@ -220,7 +220,7 @@
     {
       "title": "The Polygamist",
       "type": "series",
-      "average_rating": 5.9
+      "average_rating": 6.0
     },
     {
       "title": "Office Romance",
@@ -270,7 +270,7 @@
     {
       "title": "Maximum Pleasure Guaranteed",
       "type": "series",
-      "average_rating": 7.1
+      "average_rating": 7.2
     },
     {
       "title": "Maternal Instinct",
@@ -305,7 +305,7 @@
     {
       "title": "Citizen Vigilante",
       "type": "movie",
-      "average_rating": 5.8
+      "average_rating": 6.1
     },
     {
       "title": "Not Suitable for Work",
