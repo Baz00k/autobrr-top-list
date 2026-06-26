@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T07:29:17.297958",
+  "last_updated": "2026-06-26T07:35:17.111700",
   "total_items": 100,
   "items": [
     {
@@ -10,7 +10,7 @@
     {
       "title": "I Will Find You",
       "type": "series",
-      "average_rating": 7.3
+      "average_rating": 7.2
     },
     {
       "title": "Disclosure Day",
@@ -20,7 +20,7 @@
     {
       "title": "Widow&apos;s Bay",
       "type": "series",
-      "average_rating": 8.3
+      "average_rating": 8.2
     },
     {
       "title": "Toy Story 5",
@@ -135,7 +135,7 @@
     {
       "title": "Supergirl",
       "type": "movie",
-      "average_rating": 6.1
+      "average_rating": 6.0
     },
     {
       "title": "The Boys",
@@ -220,7 +220,7 @@
     {
       "title": "The Polygamist",
       "type": "series",
-      "average_rating": 6.0
+      "average_rating": 5.9
     },
     {
       "title": "Office Romance",
@@ -275,7 +275,7 @@
     {
       "title": "Maternal Instinct",
       "type": "movie",
-      "average_rating": 7.3
+      "average_rating": 7.2
     },
     {
       "title": "Supernatural",
@@ -295,7 +295,7 @@
     {
       "title": "Cocktail 2",
       "type": "movie",
-      "average_rating": 8.3
+      "average_rating": 8.2
     },
     {
       "title": "Criminal Minds",
@@ -305,7 +305,7 @@
     {
       "title": "Citizen Vigilante",
       "type": "movie",
-      "average_rating": 6.1
+      "average_rating": 6.5
     },
     {
       "title": "Not Suitable for Work",
