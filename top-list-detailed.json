@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T07:35:17.111700",
+  "last_updated": "2026-06-27T07:22:52.370458",
   "total_items": 100,
   "items": [
     {
@@ -80,7 +80,7 @@
     {
       "title": "Cape Fear",
       "type": "series",
-      "average_rating": 7.0
+      "average_rating": 6.9
     },
     {
       "title": "Project Hail Mary",
@@ -135,7 +135,7 @@
     {
       "title": "Supergirl",
       "type": "movie",
-      "average_rating": 6.0
+      "average_rating": 6.1
     },
     {
       "title": "The Boys",
@@ -220,7 +220,7 @@
     {
       "title": "The Polygamist",
       "type": "series",
-      "average_rating": 5.9
+      "average_rating": 6.0
     },
     {
       "title": "Office Romance",
@@ -295,7 +295,7 @@
     {
       "title": "Cocktail 2",
       "type": "movie",
-      "average_rating": 8.2
+      "average_rating": 8.1
     },
     {
       "title": "Criminal Minds",
@@ -305,12 +305,12 @@
     {
       "title": "Citizen Vigilante",
       "type": "movie",
-      "average_rating": 6.5
+      "average_rating": 6.7
     },
     {
       "title": "Not Suitable for Work",
       "type": "series",
-      "average_rating": 6.8
+      "average_rating": 6.9
     },
     {
       "title": "Hokum",
@@ -445,7 +445,7 @@
     {
       "title": "Dhurandhar: The Revenge",
       "type": "movie",
-      "average_rating": 8.3
+      "average_rating": 8.2
     },
     {
       "title": "The Legend of Vox Machina",
