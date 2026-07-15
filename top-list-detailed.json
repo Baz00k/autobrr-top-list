@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T08:27:39.594267",
+  "last_updated": "2026-07-15T08:35:22.383829",
   "total_items": 100,
   "items": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "Little House on the Prairie",
       "type": "series",
-      "average_rating": 7.1
+      "average_rating": 7.2
     },
     {
       "title": "The Sheep Detectives",
@@ -65,7 +65,7 @@
     {
       "title": "Satluj",
       "type": "movie",
-      "average_rating": 9.2
+      "average_rating": 9.1
     },
     {
       "title": "Widow&apos;s Bay",
@@ -175,7 +175,7 @@
     {
       "title": "Young Washington",
       "type": "movie",
-      "average_rating": 7.4
+      "average_rating": 7.5
     },
     {
       "title": "Breaking Bad",
@@ -255,7 +255,7 @@
     {
       "title": "Citizen Vigilante",
       "type": "movie",
-      "average_rating": 6.1
+      "average_rating": 6.0
     },
     {
       "title": "Heroes",
@@ -315,7 +315,7 @@
     {
       "title": "Ikka",
       "type": "movie",
-      "average_rating": 5.6
+      "average_rating": 5.5
     },
     {
       "title": "Sugar",
@@ -350,7 +350,7 @@
     {
       "title": "Star City",
       "type": "series",
-      "average_rating": 7.4
+      "average_rating": 7.5
     },
     {
       "title": "Avatar Aang: The Last Airbender",
@@ -385,7 +385,7 @@
     {
       "title": "Dhamaal 4",
       "type": "movie",
-      "average_rating": 7.0
+      "average_rating": 6.8
     },
     {
       "title": "The Sopranos",
