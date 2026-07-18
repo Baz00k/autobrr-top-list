@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-17T08:28:04.534033",
+  "last_updated": "2026-07-18T08:08:43.204619",
   "total_items": 100,
   "items": [
     {
       "title": "The Odyssey",
       "type": "movie",
-      "average_rating": null
+      "average_rating": 8.3
     },
     {
       "title": "House of the Dragon",
@@ -385,7 +385,7 @@
     {
       "title": "Dhamaal 4",
       "type": "movie",
-      "average_rating": 8.8
+      "average_rating": 8.7
     },
     {
       "title": "The Sopranos",
