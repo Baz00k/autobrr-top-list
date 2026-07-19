@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-18T08:08:43.204619",
+  "last_updated": "2026-07-19T08:32:40.282002",
   "total_items": 100,
   "items": [
     {
       "title": "The Odyssey",
       "type": "movie",
-      "average_rating": 8.3
+      "average_rating": 8.4
     },
     {
       "title": "House of the Dragon",
@@ -65,7 +65,7 @@
     {
       "title": "Satluj",
       "type": "movie",
-      "average_rating": 9.1
+      "average_rating": 9.0
     },
     {
       "title": "Widow&apos;s Bay",
@@ -85,7 +85,7 @@
     {
       "title": "Backrooms",
       "type": "movie",
-      "average_rating": 7.0
+      "average_rating": 6.9
     },
     {
       "title": "Cape Fear",
@@ -160,7 +160,7 @@
     {
       "title": "Kim-bu-jang",
       "type": "series",
-      "average_rating": 7.8
+      "average_rating": 7.9
     },
     {
       "title": "Enola Holmes 3",
@@ -200,7 +200,7 @@
     {
       "title": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
       "type": "series",
-      "average_rating": 6.6
+      "average_rating": 6.5
     },
     {
       "title": "Michael",
@@ -215,7 +215,7 @@
     {
       "title": "Hopeu",
       "type": "movie",
-      "average_rating": 6.9
+      "average_rating": 7.0
     },
     {
       "title": "The Agency",
@@ -305,7 +305,7 @@
     {
       "title": "The Outer Threat",
       "type": "movie",
-      "average_rating": 4.7
+      "average_rating": 4.6
     },
     {
       "title": "A Knight of the Seven Kingdoms",
@@ -315,7 +315,7 @@
     {
       "title": "Ikka",
       "type": "movie",
-      "average_rating": 5.5
+      "average_rating": 5.4
     },
     {
       "title": "Sugar",
@@ -360,7 +360,7 @@
     {
       "title": "Little House on the Prairie",
       "type": "series",
-      "average_rating": 7.5
+      "average_rating": 7.6
     },
     {
       "title": "Evil Dead Rise",
@@ -385,7 +385,7 @@
     {
       "title": "Dhamaal 4",
       "type": "movie",
-      "average_rating": 8.7
+      "average_rating": 8.6
     },
     {
       "title": "The Sopranos",
