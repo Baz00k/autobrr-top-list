@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-21T08:44:12.778800",
+  "last_updated": "2026-07-22T08:44:45.386577",
   "total_items": 100,
   "items": [
     {
       "title": "The Odyssey",
       "type": "movie",
-      "average_rating": 8.4
+      "average_rating": 8.5
     },
     {
       "title": "House of the Dragon",
@@ -140,7 +140,7 @@
     {
       "title": "Kim-bu-jang",
       "type": "series",
-      "average_rating": 7.9
+      "average_rating": 7.8
     },
     {
       "title": "Interstellar",
@@ -155,7 +155,7 @@
     {
       "title": "Disclosure Day",
       "type": "movie",
-      "average_rating": 6.7
+      "average_rating": 6.6
     },
     {
       "title": "Rick and Morty",
@@ -240,7 +240,7 @@
     {
       "title": "The Westies",
       "type": "series",
-      "average_rating": 7.1
+      "average_rating": 7.0
     },
     {
       "title": "The Long Walk",
@@ -270,7 +270,7 @@
     {
       "title": "Maximum Pleasure Guaranteed",
       "type": "series",
-      "average_rating": 7.3
+      "average_rating": 7.4
     },
     {
       "title": "Minions &amp; Monsters",
@@ -330,7 +330,7 @@
     {
       "title": "Ann Droid",
       "type": "series",
-      "average_rating": 7.5
+      "average_rating": 7.6
     },
     {
       "title": "The Shawshank Redemption",
@@ -345,12 +345,12 @@
     {
       "title": "Ikka",
       "type": "movie",
-      "average_rating": 5.4
+      "average_rating": 5.5
     },
     {
       "title": "The Dark",
       "type": "series",
-      "average_rating": 6.6
+      "average_rating": 6.5
     },
     {
       "title": "Enola Holmes 3",
