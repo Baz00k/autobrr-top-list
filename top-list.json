@@ -6,12 +6,6 @@
     "title": "Lanterns"
   },
   {
-    "title": "The Odyssey"
-  },
-  {
-    "title": "Reacher"
-  },
-  {
     "title": "Mayday"
   },
   {
@@ -21,67 +15,85 @@
     "title": "Spider-Man: Brand New Day"
   },
   {
-    "title": "The Gentlemen"
+    "title": "Reacher"
   },
   {
-    "title": "Practical Magic 2"
-  },
-  {
-    "title": "Last Seen"
-  },
-  {
-    "title": "Obsession"
+    "title": "The Odyssey"
   },
   {
     "title": "Lioness"
   },
   {
+    "title": "Obsession"
+  },
+  {
+    "title": "The Gentlemen"
+  },
+  {
     "title": "The Runner"
-  },
-  {
-    "title": "Made in Korea"
-  },
-  {
-    "title": "One Night Only"
   },
   {
     "title": "Dark Matter"
   },
   {
-    "title": "Mutiny"
+    "title": "One Night Only"
+  },
+  {
+    "title": "Last Seen"
+  },
+  {
+    "title": "Practical Magic 2"
   },
   {
     "title": "Crew Girl"
   },
   {
-    "title": "Drawn Together"
+    "title": "Coyote vs. Acme"
   },
   {
     "title": "The Early Spring"
   },
   {
-    "title": "Coyote vs. Acme"
+    "title": "Drawn Together"
   },
   {
     "title": "The Perfect Lie"
   },
   {
+    "title": "Mutiny"
+  },
+  {
+    "title": "Made in Korea"
+  },
+  {
     "title": "PAW Patrol: The Dino Movie"
   },
   {
-    "title": "The Grand Tour"
+    "title": "A Tale of Two Cities"
   },
   {
-    "title": "Toy Story 5"
+    "title": "Hope"
   },
   {
-    "title": "The Shards"
+    "title": "THE GHOST IN THE SHELL"
+  },
+  {
+    "title": "Resident Evil"
+  },
+  {
+    "title": "The Walking Dead: Dead City"
+  },
+  {
+    "title": "Backrooms"
+  },
+  {
+    "title": "A Bona Fide Killer"
   },
   {
     "title": "Why Did I Get Married Again?"
   },
   {
-    "title": "Stuart Fails to Save the Universe"
+    "title": "THE GHOST IN THE SHELL"
   },
   {
     "title": "Runner"
@@ -90,34 +102,28 @@
     "title": "Star Trek: Strange New Worlds"
   },
   {
-    "title": "Fall 2: Deadpoint"
+    "title": "Toy Story 5"
   },
   {
-    "title": "THE GHOST IN THE SHELL"
+    "title": "Stuart Fails to Save the Universe"
   },
   {
-    "title": "Supergirl"
-  },
-  {
-    "title": "Chad Powers"
-  },
-  {
-    "title": "Project Hail Mary"
+    "title": "Call My Agent! The Movie"
   },
   {
     "title": "The Paper"
   },
   {
-    "title": "Backrooms"
+    "title": "Project Hail Mary"
   },
   {
-    "title": "House of the Dragon"
+    "title": "The Grand Tour"
   },
   {
     "title": "The Whisper Man"
   },
   {
-    "title": "The Long Watch"
+    "title": "House of the Dragon"
   },
   {
     "title": "Buddy"
@@ -126,34 +132,10 @@
     "title": "Mushoku Tensei: Jobless Reincarnation"
   },
   {
-    "title": "Clash of the Thundermans"
+    "title": "Fall 2: Deadpoint"
   },
   {
-    "title": "The Ordinary Jackpot"
-  },
-  {
-    "title": "Go Team!"
-  },
-  {
-    "title": "Against the Current"
-  },
-  {
-    "title": "Minions & Monsters"
-  },
-  {
-    "title": "The Walking Dead: Dead City"
-  },
-  {
-    "title": "Vishwanath & Sons"
-  },
-  {
-    "title": "A Tale of Two Cities"
-  },
-  {
-    "title": "The Drama"
-  },
-  {
-    "title": "Furious"
+    "title": "The Long Watch"
   },
   {
     "title": "Just Play Dead"
@@ -162,25 +144,19 @@
     "title": "MobLand"
   },
   {
-    "title": "Disclosure Day"
+    "title": "Supergirl"
   },
   {
-    "title": "Stolen Heartbeats"
+    "title": "Furious"
   },
   {
-    "title": "Forgotten Island"
+    "title": "Clash of the Thundermans"
   },
   {
-    "title": "Slow Horses"
+    "title": "Chad Powers"
   },
   {
-    "title": "Tuner"
-  },
-  {
-    "title": "ted"
-  },
-  {
-    "title": "The Mandalorian and Grogu"
+    "title": "Minions & Monsters"
   },
   {
     "title": "Vigil"
@@ -189,7 +165,97 @@
     "title": "The Invite"
   },
   {
-    "title": "A Bona Fide Killer"
+    "title": "The Ordinary Jackpot"
+  },
+  {
+    "title": "The Drama"
+  },
+  {
+    "title": "Adults"
+  },
+  {
+    "title": "Colony"
+  },
+  {
+    "title": "Adults"
+  },
+  {
+    "title": "Go Team!"
+  },
+  {
+    "title": "Abyss"
+  },
+  {
+    "title": "Forgotten Island"
+  },
+  {
+    "title": "Slow Horses"
+  },
+  {
+    "title": "Disclosure Day"
+  },
+  {
+    "title": "Spider-Noir"
+  },
+  {
+    "title": "Evil Dead Burn"
+  },
+  {
+    "title": "Marble Hall Murders"
+  },
+  {
+    "title": "The Mandalorian and Grogu"
+  },
+  {
+    "title": "Jaadugar: A Witch in Mongolia"
+  },
+  {
+    "title": "The End of Oak Street"
+  },
+  {
+    "title": "The Drop: A Snowfall Saga"
+  },
+  {
+    "title": "Once Upon a Time in the Middle East"
+  },
+  {
+    "title": "The Lord of the Rings: The Rings of Power"
+  },
+  {
+    "title": "Vishwanath & Sons"
+  },
+  {
+    "title": "Blossom Through the Cloud"
+  },
+  {
+    "title": "In the Grey"
+  },
+  {
+    "title": "ted"
+  },
+  {
+    "title": "The Uprising"
+  },
+  {
+    "title": "The Trial"
+  },
+  {
+    "title": "Pinocchio: Unstrung"
+  },
+  {
+    "title": "Stolen Heartbeats"
+  },
+  {
+    "title": "Dear You"
+  },
+  {
+    "title": "Frieren: Beyond Journey's End"
+  },
+  {
+    "title": "Insidious: Out of the Further"
+  },
+  {
+    "title": "BLACK TORCH"
   },
   {
     "title": "LEGO Star Wars: The Mandalorian"
@@ -198,52 +264,22 @@
     "title": "Ludwig"
   },
   {
-    "title": "The Dog Stars"
+    "title": "Oasis: Don't Look Back in Anger"
   },
   {
-    "title": "The Affair Was Just the Beginning"
+    "title": "Dang!"
   },
   {
-    "title": "Hope"
+    "title": "Tuner"
   },
   {
-    "title": "DANG!"
+    "title": "Chainsmoker Cat"
   },
   {
-    "title": "Insidious: Out of the Further"
+    "title": "Scary Movie"
   },
   {
-    "title": "Flex X Cop"
-  },
-  {
-    "title": "Colony"
-  },
-  {
-    "title": "Spider-Noir"
-  },
-  {
-    "title": "Dear You"
-  },
-  {
-    "title": "Adults"
-  },
-  {
-    "title": "Evil Dead Burn"
-  },
-  {
-    "title": "Widow's Bay"
-  },
-  {
-    "title": "I Want Your Sex"
-  },
-  {
-    "title": "Mousetrap"
-  },
-  {
-    "title": "Onslaught"
-  },
-  {
-    "title": "My Bias, My Boss"
+    "title": "Frieren: Beyond Journey's End"
   },
   {
     "title": "The Girl in the River"
@@ -252,51 +288,15 @@
     "title": "Flex X Cop"
   },
   {
-    "title": "Band of Brothers: Legacy"
+    "title": "The Dog Stars"
   },
   {
-    "title": "FROM"
+    "title": "Mousetrap"
   },
   {
-    "title": "Michael"
+    "title": "Fuze"
   },
   {
-    "title": "Frieren: Beyond Journey's End"
-  },
-  {
-    "title": "The End of Oak Street"
-  },
-  {
-    "title": "Founder: Orhan"
-  },
-  {
-    "title": "DC"
-  },
-  {
-    "title": "In My Prime"
-  },
-  {
-    "title": "Pressure"
-  },
-  {
-    "title": "Lucky"
-  },
-  {
-    "title": "In the Grey"
-  },
-  {
-    "title": "LINK CLICK"
-  },
-  {
-    "title": "All Wishes Come True!"
-  },
-  {
-    "title": "Four Hands, Two Sonatas"
-  },
-  {
-    "title": "Salmokji: Whispering Water"
-  },
-  {
-    "title": "ONE PIECE"
+    "title": "You and I Are Polar Opposites"
   }
 ]
