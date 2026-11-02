@@ -1,66 +1,26 @@
 {
-  "last_updated": "2026-11-01T13:23:50.566852",
+  "last_updated": "2026-11-02T15:51:22.548260",
   "total_items": 100,
   "items": [
     {
-      "title": "Verity",
+      "title": "Resident Evil",
       "type": "movie",
-      "average_rating": 6.753
-    },
-    {
-      "title": "Lupin",
-      "type": "series",
-      "average_rating": 7.674
-    },
-    {
-      "title": "The Dog Stars",
-      "type": "movie",
-      "average_rating": 7.1
-    },
-    {
-      "title": "Nocturne",
-      "type": "series",
-      "average_rating": 7.348
-    },
-    {
-      "title": "Clayface",
-      "type": "movie",
-      "average_rating": 7.456
-    },
-    {
-      "title": "VisionQuest",
-      "type": "series",
-      "average_rating": 8.7
-    },
-    {
-      "title": "Wildwood",
-      "type": "movie",
-      "average_rating": 8.681
+      "average_rating": 7.3
     },
     {
       "title": "Dead-End Job",
       "type": "series",
+      "average_rating": 7.6
+    },
+    {
+      "title": "Verity",
+      "type": "movie",
+      "average_rating": 6.872
+    },
+    {
+      "title": "Lupin",
+      "type": "series",
       "average_rating": 7.7
-    },
-    {
-      "title": "Forgotten Island",
-      "type": "movie",
-      "average_rating": 7.74
-    },
-    {
-      "title": "The Terminal List",
-      "type": "series",
-      "average_rating": 7.992
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "type": "movie",
-      "average_rating": 8.478
-    },
-    {
-      "title": "MobLand",
-      "type": "series",
-      "average_rating": 8.609
     },
     {
       "title": "Apocalypse Z: New World",
@@ -68,144 +28,134 @@
       "average_rating": 6.1
     },
     {
-      "title": "Dexter: Resurrection",
+      "title": "VisionQuest",
       "type": "series",
-      "average_rating": 8.542
+      "average_rating": 8.636
     },
     {
-      "title": "Resident Evil",
+      "title": "The Dog Stars",
       "type": "movie",
-      "average_rating": 7.315
+      "average_rating": 7.173
     },
     {
-      "title": "Slow Horses",
+      "title": "The Gilded Age",
       "type": "series",
-      "average_rating": 8.064
-    },
-    {
-      "title": "Ali G: Who Iz I?",
-      "type": "movie",
-      "average_rating": 6.0
-    },
-    {
-      "title": "Ghosts",
-      "type": "series",
-      "average_rating": 8.127
-    },
-    {
-      "title": "Drive - The Pretenders",
-      "type": "movie",
       "average_rating": 7.7
     },
     {
-      "title": "Cyberpunk: Edgerunners",
-      "type": "series",
-      "average_rating": 8.508
-    },
-    {
-      "title": "Hope",
+      "title": "Clayface",
       "type": "movie",
-      "average_rating": 6.772
+      "average_rating": 7.455
     },
     {
-      "title": "Doctor X: Mafia in White",
+      "title": "Nocturne",
       "type": "series",
-      "average_rating": 9.4
+      "average_rating": 7.5
     },
     {
-      "title": "Obsession",
+      "title": "Wildwood",
       "type": "movie",
-      "average_rating": 8.169
+      "average_rating": 8.6
     },
     {
-      "title": "Lanterns",
+      "title": "Dexter: Resurrection",
       "type": "series",
-      "average_rating": 8.211
+      "average_rating": 8.539
     },
     {
-      "title": "The Odyssey",
+      "title": "Forgotten Island",
       "type": "movie",
-      "average_rating": 8.016
+      "average_rating": 8.0
     },
     {
-      "title": "Dark Matter",
+      "title": "MobLand",
       "type": "series",
-      "average_rating": 7.82
-    },
-    {
-      "title": "The Cycle",
-      "type": "movie",
-      "average_rating": 6.833
-    },
-    {
-      "title": "Carrie",
-      "type": "series",
-      "average_rating": 8.275
-    },
-    {
-      "title": "Buddy",
-      "type": "movie",
-      "average_rating": 7.002
-    },
-    {
-      "title": "Avatar: Seven Havens",
-      "type": "series",
-      "average_rating": 9.0
-    },
-    {
-      "title": "Sense and Sensibility",
-      "type": "movie",
-      "average_rating": 7.35
-    },
-    {
-      "title": "The Apothecary Diaries",
-      "type": "series",
-      "average_rating": 8.7
-    },
-    {
-      "title": "Runner",
-      "type": "movie",
-      "average_rating": 8.299
-    },
-    {
-      "title": "YAGA",
-      "type": "series",
-      "average_rating": 7.286
+      "average_rating": 8.617
     },
     {
       "title": "Collision Course",
       "type": "movie",
+      "average_rating": 6.879
+    },
+    {
+      "title": "Dark Matter",
+      "type": "series",
+      "average_rating": 7.8
+    },
+    {
+      "title": "Godzilla Minus Zero",
+      "type": "movie",
+      "average_rating": 10.0
+    },
+    {
+      "title": "Cyberpunk: Edgerunners",
+      "type": "series",
+      "average_rating": 8.5
+    },
+    {
+      "title": "Hope",
+      "type": "movie",
       "average_rating": 6.8
     },
     {
-      "title": "Small Town Remedy",
+      "title": "The Terminal List",
       "type": "series",
-      "average_rating": 9.0
+      "average_rating": 7.995
     },
     {
-      "title": "LA BOLA NEGRA",
+      "title": "The Cat in the Hat",
       "type": "movie",
-      "average_rating": 8.061
+      "average_rating": 7.7
     },
     {
       "title": "Ghosts",
       "type": "series",
-      "average_rating": 8.127
+      "average_rating": 8.1
     },
     {
-      "title": "Surviving Hurricane Otis",
+      "title": "Obsession",
       "type": "movie",
-      "average_rating": 7.43
+      "average_rating": 8.2
     },
     {
-      "title": "YAGA",
+      "title": "Carrie",
       "type": "series",
-      "average_rating": 7.286
+      "average_rating": 8.276
+    },
+    {
+      "title": "Drive - The Pretenders",
+      "type": "movie",
+      "average_rating": 7.6
+    },
+    {
+      "title": "Marshals",
+      "type": "series",
+      "average_rating": 7.968
     },
     {
       "title": "Wicker",
       "type": "movie",
-      "average_rating": 7.6
+      "average_rating": 7.5
+    },
+    {
+      "title": "IT: Welcome to Derry",
+      "type": "series",
+      "average_rating": 8.3
+    },
+    {
+      "title": "Wild Horse Nine",
+      "type": "movie",
+      "average_rating": 8.909
+    },
+    {
+      "title": "Where the Mask Ends",
+      "type": "series",
+      "average_rating": 8.2
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "type": "movie",
+      "average_rating": 8.485
     },
     {
       "title": "The Perfect Lie",
@@ -213,29 +163,19 @@
       "average_rating": 8.5
     },
     {
-      "title": "Street Fighter",
+      "title": "LA BOLA NEGRA",
       "type": "movie",
-      "average_rating": 6.314
+      "average_rating": 8.1
     },
     {
-      "title": "Has Fallen",
+      "title": "Crystal Lake",
       "type": "series",
-      "average_rating": 7.029
+      "average_rating": 8.661
     },
     {
-      "title": "Backrooms",
+      "title": "Sense and Sensibility",
       "type": "movie",
-      "average_rating": 6.997
-    },
-    {
-      "title": "IT: Welcome to Derry",
-      "type": "series",
-      "average_rating": 8.249
-    },
-    {
-      "title": "Buddy",
-      "type": "movie",
-      "average_rating": 7.002
+      "average_rating": 7.215
     },
     {
       "title": "The Lord of the Rings: The Rings of Power",
@@ -245,27 +185,17 @@
     {
       "title": "The Birthday​ Gift​",
       "type": "movie",
-      "average_rating": 7.2
+      "average_rating": 7.056
     },
     {
-      "title": "Final Table",
+      "title": "Tulsa King",
       "type": "series",
-      "average_rating": 8.222
+      "average_rating": 8.315
     },
     {
-      "title": "Crawlers",
+      "title": "The Odyssey",
       "type": "movie",
-      "average_rating": 6.163
-    },
-    {
-      "title": "Slow Horses",
-      "type": "series",
-      "average_rating": 8.064
-    },
-    {
-      "title": "You Can See Everything",
-      "type": "movie",
-      "average_rating": 8.9
+      "average_rating": 8.0
     },
     {
       "title": "Natural High",
@@ -273,64 +203,174 @@
       "average_rating": 7.5
     },
     {
-      "title": "Digger",
+      "title": "The Cycle",
       "type": "movie",
-      "average_rating": 7.5
+      "average_rating": 6.813
     },
     {
-      "title": "Doctor X: Mafia in White",
+      "title": "Has Fallen",
       "type": "series",
-      "average_rating": 9.4
+      "average_rating": 7.0
     },
     {
-      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "title": "Backrooms",
       "type": "movie",
-      "average_rating": 7.422
+      "average_rating": 7.0
     },
     {
-      "title": "The Apothecary Diaries",
+      "title": "Avatar: Seven Havens",
       "type": "series",
-      "average_rating": 8.7
+      "average_rating": 9.009
     },
     {
-      "title": "Mutiny",
+      "title": "A Story of Derry",
       "type": "movie",
-      "average_rating": 7.65
+      "average_rating": 6.6
     },
     {
       "title": "Lanterns",
       "type": "series",
-      "average_rating": 8.211
+      "average_rating": 8.202
     },
     {
-      "title": "The Cat in the Hat",
+      "title": "Runner",
       "type": "movie",
-      "average_rating": 7.7
-    },
-    {
-      "title": "Love in Disguise",
-      "type": "series",
-      "average_rating": 9.3
-    },
-    {
-      "title": "Coyote vs. Acme",
-      "type": "movie",
-      "average_rating": 8.036
-    },
-    {
-      "title": "The One About Matthew Perry",
-      "type": "series",
-      "average_rating": 6.688
-    },
-    {
-      "title": "Tenzing",
-      "type": "movie",
-      "average_rating": 8.274
+      "average_rating": 8.29
     },
     {
       "title": "Dragon Ball Super: Beerus",
       "type": "series",
-      "average_rating": 9.654
+      "average_rating": 9.643
+    },
+    {
+      "title": "Primetime",
+      "type": "movie",
+      "average_rating": 6.849
+    },
+    {
+      "title": "Final Table",
+      "type": "series",
+      "average_rating": 8.5
+    },
+    {
+      "title": "Ramayana: Rise of a Legend",
+      "type": "movie",
+      "average_rating": 10.0
+    },
+    {
+      "title": "Small Town Remedy",
+      "type": "series",
+      "average_rating": 8.5
+    },
+    {
+      "title": "Street Fighter",
+      "type": "movie",
+      "average_rating": 6.3
+    },
+    {
+      "title": "The Apothecary Diaries",
+      "type": "series",
+      "average_rating": 8.66
+    },
+    {
+      "title": "You Can See Everything",
+      "type": "movie",
+      "average_rating": 8.9
+    },
+    {
+      "title": "Doctor X: Mafia in White",
+      "type": "series",
+      "average_rating": 9.333
+    },
+    {
+      "title": "Moana",
+      "type": "movie",
+      "average_rating": 7.484
+    },
+    {
+      "title": "Slow Horses",
+      "type": "series",
+      "average_rating": 8.069
+    },
+    {
+      "title": "Digger",
+      "type": "movie",
+      "average_rating": 7.502
+    },
+    {
+      "title": "Youth",
+      "type": "series",
+      "average_rating": 6.9
+    },
+    {
+      "title": "De Gaulle: Liberté",
+      "type": "movie",
+      "average_rating": 7.811
+    },
+    {
+      "title": "Love in Disguise",
+      "type": "series",
+      "average_rating": 8.951
+    },
+    {
+      "title": "Buddy",
+      "type": "movie",
+      "average_rating": 6.993
+    },
+    {
+      "title": "YAGA",
+      "type": "series",
+      "average_rating": 7.1
+    },
+    {
+      "title": "Mutiny",
+      "type": "movie",
+      "average_rating": 7.656
+    },
+    {
+      "title": "YAGA",
+      "type": "series",
+      "average_rating": 7.1
+    },
+    {
+      "title": "By Any Means",
+      "type": "movie",
+      "average_rating": 6.614
+    },
+    {
+      "title": "Balaraw: Blood Island",
+      "type": "series",
+      "average_rating": 7.3
+    },
+    {
+      "title": "Coyote vs. Acme",
+      "type": "movie",
+      "average_rating": 8.159
+    },
+    {
+      "title": "Tigers Sniff the Rose",
+      "type": "series",
+      "average_rating": 9.5
+    },
+    {
+      "title": "Never After Dark",
+      "type": "movie",
+      "average_rating": 7.273
+    },
+    {
+      "title": "The Fall of El Mayo",
+      "type": "series",
+      "average_rating": 9.2
+    },
+    {
+      "title": "Heart of the Beast",
+      "type": "movie",
+      "average_rating": 7.309
+    },
+    {
+      "title": "100 Days of Deception",
+      "type": "series",
+      "average_rating": 8.583
     },
     {
       "title": "Toy Story 5",
@@ -343,164 +383,124 @@
       "average_rating": 7.7
     },
     {
-      "title": "The End of Oak Street",
+      "title": "Ghost in the Cell",
       "type": "movie",
-      "average_rating": 7.071
+      "average_rating": 6.9
     },
     {
-      "title": "Phony",
+      "title": "FROM",
       "type": "series",
-      "average_rating": 7.526
-    },
-    {
-      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "type": "movie",
-      "average_rating": 7.422
-    },
-    {
-      "title": "Tigers Sniff the Rose",
-      "type": "series",
-      "average_rating": 9.5
-    },
-    {
-      "title": "The Cat in the Hat",
-      "type": "movie",
-      "average_rating": 7.7
-    },
-    {
-      "title": "Balaraw: Blood Island",
-      "type": "series",
-      "average_rating": 7.167
-    },
-    {
-      "title": "Crawlers",
-      "type": "movie",
-      "average_rating": 6.163
-    },
-    {
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "type": "series",
-      "average_rating": 8.435
+      "average_rating": 8.493
     },
     {
       "title": "Masterplan",
       "type": "movie",
-      "average_rating": 6.875
+      "average_rating": 6.906
     },
     {
-      "title": "Dive into You",
+      "title": "R.J. Decker",
       "type": "series",
-      "average_rating": 9.0
+      "average_rating": 7.5
     },
     {
-      "title": "Coyote vs. Acme",
+      "title": "Surviving Hurricane Otis",
       "type": "movie",
-      "average_rating": 8.035
+      "average_rating": 7.578
     },
     {
-      "title": "Treasure Island",
+      "title": "House of the Dragon",
       "type": "series",
-      "average_rating": 6.9
-    },
-    {
-      "title": "By Any Means",
-      "type": "movie",
-      "average_rating": 6.593
-    },
-    {
-      "title": "Marshals",
-      "type": "series",
-      "average_rating": 7.97
-    },
-    {
-      "title": "Mutiny",
-      "type": "movie",
-      "average_rating": 7.65
-    },
-    {
-      "title": "Tokyo Revengers",
-      "type": "series",
-      "average_rating": 8.4
-    },
-    {
-      "title": "Animals",
-      "type": "movie",
-      "average_rating": 6.974
-    },
-    {
-      "title": "Monster: The Lizzie Borden Story",
-      "type": "series",
-      "average_rating": 7.052
-    },
-    {
-      "title": "Whalefall",
-      "type": "movie",
-      "average_rating": 6.573
-    },
-    {
-      "title": "Scrubs",
-      "type": "series",
-      "average_rating": 7.7
+      "average_rating": 8.38
     },
     {
       "title": "Bad Apples",
       "type": "movie",
-      "average_rating": 6.863
+      "average_rating": 6.888
     },
     {
-      "title": "100 Days of Deception",
+      "title": "Black Doves",
       "type": "series",
-      "average_rating": 9.3
+      "average_rating": 7.015
     },
     {
-      "title": "Ramayana: Rise of a Legend",
+      "title": "The Stunt Driver",
       "type": "movie",
-      "average_rating": 10.0
+      "average_rating": 7.0
     },
     {
-      "title": "Khemjira",
+      "title": "American Hostage",
       "type": "series",
-      "average_rating": 9.2
+      "average_rating": 6.7
     },
     {
-      "title": "Toy Story 5",
+      "title": "Crawlers",
       "type": "movie",
-      "average_rating": 8.28
-    },
-    {
-      "title": "Marshals",
-      "type": "series",
-      "average_rating": 7.97
-    },
-    {
-      "title": "Fall 2: Deadpoint",
-      "type": "movie",
-      "average_rating": 7.307
-    },
-    {
-      "title": "Monster: The Lizzie Borden Story",
-      "type": "series",
-      "average_rating": 7.052
-    },
-    {
-      "title": "Possible Love",
-      "type": "movie",
-      "average_rating": 7.9
-    },
-    {
-      "title": "Scrubs",
-      "type": "series",
-      "average_rating": 7.7
-    },
-    {
-      "title": "The End of Oak Street",
-      "type": "movie",
-      "average_rating": 7.071
+      "average_rating": 6.2
     },
     {
       "title": "Treasure Island",
       "type": "series",
-      "average_rating": 6.9
+      "average_rating": 6.737
+    },
+    {
+      "title": "The Invite",
+      "type": "movie",
+      "average_rating": 7.205
+    },
+    {
+      "title": "The Lament of Autumn",
+      "type": "series",
+      "average_rating": 8.0
+    },
+    {
+      "title": "Animals",
+      "type": "movie",
+      "average_rating": 6.97
+    },
+    {
+      "title": "Vivant",
+      "type": "series",
+      "average_rating": 7.1
+    },
+    {
+      "title": "Insidious: Out of the Further",
+      "type": "movie",
+      "average_rating": 7.711
+    },
+    {
+      "title": "Ranma1/2",
+      "type": "series",
+      "average_rating": 8.1
+    },
+    {
+      "title": "Tenzing",
+      "type": "movie",
+      "average_rating": 8.257
+    },
+    {
+      "title": "Abbott Elementary",
+      "type": "series",
+      "average_rating": 7.513
+    },
+    {
+      "title": "V",
+      "type": "movie",
+      "average_rating": 6.8
+    },
+    {
+      "title": "Ranma1/2",
+      "type": "series",
+      "average_rating": 8.1
+    },
+    {
+      "title": "V",
+      "type": "movie",
+      "average_rating": 6.8
+    },
+    {
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "type": "series",
+      "average_rating": 8.437
     }
   ]
 }
